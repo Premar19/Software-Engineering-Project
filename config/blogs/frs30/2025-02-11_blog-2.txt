@@ -1,0 +1,36 @@
+Author: Frs30
+Sprint: 2(11/02/25)
+
+Assigned actions
+=================
+
+Action 1: DS.1.9: flip_Cards_ Prototype
+
+Planned the script for the 'task, action, result' sets, along with constructing several scenarios to handle a user's actions/errors. 
+The pictures I used, to accompany the slide's text, were miniture drawin screens that acted as temporary substitutes for the ui structure we had yet to finalise.
+
+Hours: 6
+
+
+Other project work
+==================
+
+Action 2: Change project description
+
+Quickly edited the GitLab's team description to a quick outline of the project's core; also including the team members' names and their various possitions within the team.
+
+Hours: 0
+
+Action 3: Create Issues for Sprint backlog
+
+Added the issues that were assigned in the meeting to the project backlog and tagged the preassigned team member to each.
+
+Hours: 0
+
+Action 3: Layout meeting
+
+We discussed the possible layout and backgrounds for the prototype.
+
+Hours: 1
+
+Total hours: 7

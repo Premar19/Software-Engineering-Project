@@ -1,0 +1,109 @@
+Project: Deck of Cards
+Meeting: Weekly Sprint review
+Persons present: All project members present except Abdullah Al-Samarrai
+Place and date of meeting: Room 1, Tuesday 25th February 2025
+Author: Niall Perry
+Version: 1.0
+Circulation list:
+- bie2: Billy Edwards
+- frs30: Francy Sasso (Deputy QA Manager)
+- job130: Joe Ball
+- nas97: Natalia Spence (Team Leader)
+- nip33: Niall Perry (QA Manager)
+- prs49: Prem Sharma
+- ref17: Reema Fraser (Deputy Team Leader)
+- wis40: William Shipp
+
+Stories covered by review and their review status
+==================================================
+DS2, Archeitectural design: Rolled over
+DS1, UI prototype: Rolled Over
+
+Story DS1: User interface checklist
+====================================
+1. Does the prototype have a cover slide?
+Yes.
+
+2. Does the prototype have a final slide with the document change history?
+Yes.
+
+3. Are there any Product Backlog UI related stories not covered in the prototype?
+Yes, we need to alter US3 to inlcude user's picture upload 
+
+4. Does prototype follow the Task, Action, Result structure?
+Yes.
+
+5. Do the screen slides flow correctly, i.e., show a progression of user interactions?
+Yes.
+
+6. Is each prototype screen linked to the Product Backlog story that it relates to?
+Yes.
+
+7. Does the prototype give sufficient detail that you can understand what is needed in the UI when
+implementing?
+Yes.
+
+8. Does the prototype deal with error cases?
+Yes, however more error cases would be useful.
+
+9. Does the prototype define the colours to be used?
+Yes.
+
+10. Does the prototype take into account accessibility issues, such as contrast and font size?
+Yes.
+
+Story DS2: Design specification checklist
+====================================
+1. Does the document meet the General Document Standards (see [5] and questions in appendix A)?
+No, in progress
+
+2. Are all the programs in the system described and represented within a deployment diagram?
+Yes.
+
+3. Does the description and deployment diagram also cover other elements in the system, e.g. networks etc?
+Yes.
+
+4. Is there a package diagram for each program in the system?
+Yes.
+
+5. Are there class diagrams with package symbols and other correct UML notation for those parts of the
+system already delivered?
+Yes.
+
+6. Is there a separate class diagram for each program in the system? This is only for those parts of the
+system delivered so far.
+No.
+
+7. Are the class diagrams consistent with the package diagram? This is only for those parts of the system
+delivered so far.
+Yes.
+
+8. Is there a table mapping of user stories the classes?
+No.
+
+9. Are important data structures highlighted? 
+Yes.
+
+10. Are key interactions between system users, objects and across programs captured by UML sequence
+diagrams? 
+No.
+
+11. Are there separate sequence diagrams for each program in the system? This is only for those parts of the
+system delivered so far.
+No.
+
+12. Are the sequence diagrams consistent with class diagrams, i.e. same classes used?
+Yes.
+
+13. Do the reviewers understand the design?
+Yes.
+
+14. Can the design be simplified? Remember the Agile Manifesto principle: Simplicity—the art of
+maximizing the amount of work not done—is essential.
+Not yet finished
+
+15. Will the design lead to a maintainable system?
+Unable to say
+
+16. Could the design be modified to offer more opportunity for reusing existing software libraries?
+Unable to say.

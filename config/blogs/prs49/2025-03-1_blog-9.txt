@@ -1,0 +1,36 @@
+Author: prs49
+Sprint: 7(25/03/25)
+
+Assigned actions
+=================
+
+Action 1: US4 Implementation
+
+Changed path to put the imager in the target folder rather than resourses
+
+Hours: 0.5
+
+Action 2: US13 Implementation
+
+Implement Replay class trying to replay a previously recorded dealing layout and letting user to play on from there
+
+Hours: 5.5
+
+Action 3: Design and test for US9
+
+Test Table and sequence diagram for US9
+
+Hours: 1
+
+Action 4: Meeting
+
+Discused all work to be done for the week with the scrum team
+
+Hours: 1
+
+
+Other project work
+==================
+
+
+Total hours: 8

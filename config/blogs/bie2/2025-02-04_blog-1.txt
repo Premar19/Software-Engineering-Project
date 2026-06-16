@@ -1,0 +1,33 @@
+Author: bie2
+Sprint: 1(04/02/25)
+
+Assigned actions
+====================
+
+Action 1: Read all Quality Assurance documents
+
+Read through all SE-QA documents from 1 to 10.
+
+Hours: 3
+---
+Action 2: Prepare a Slideshow Presentation for SE.QA.1 (QA Plan)
+
+Simplified the document down and created a slideshow to present to my group members in our review meeting.
+
+Hours: 2
+---
+Action 3: Watched the UI Prototype video
+
+Watched and created notes on the UI prototype video.
+
+Hours: 1
+
+Other project work
+=====================
+NONE
+
+Hours: 0
+--------------------------------------- 
+Total hours: 6
+
+

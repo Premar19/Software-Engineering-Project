@@ -1,0 +1,17 @@
+
+Author: ABA115
+Sprint: 11 (8/05/25)
+Assigned actions
+===============================================================
+Action 1:sequence diagram and description us 17
+we diddnt do this user story so i had to make it based on how it will look 
+Hour: 2 hours
+===============================================================
+Action 2: class diagram description for the following 5 classes 
+GameOptions, Recording, Replay, pop up, Customization
+Hours:3
+Other project work
+===================================================================
+2 sprint review meeting making sure everyone is on track
+Hours: 2
+Total hours: 7

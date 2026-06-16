@@ -1,0 +1,33 @@
+Author: Wis40
+Sprint: 11(08/05/25)
+Assigned actions
+=================
+
+Action 1 (06-05-2025) Sprint Review / Progress Meeting 
+
+Hours: 1
+
+Action 2 (07-05-2025) UI Prototype V3
+Updated the UI Prototype to refelect the final product release
+
+Hours: 3
+
+Action 3 (07-05-2025) Class Descriptions
+Wrote class descriptions for Card, Deck, TableObject, Replay and Suit for the design document
+
+Hours: 2
+
+Action 4 (07-05-2025) Updated US-17 Psuedo Code
+Updated US-17 Psuedo Code to the correct format 
+
+Hours: 0
+
+Other project work
+
+==================
+
+NONE
+
+Hours: 0
+
+Total hours: 6

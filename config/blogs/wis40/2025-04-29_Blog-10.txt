@@ -1,0 +1,26 @@
+Author: Wis40
+Sprint: 10(29/04/25)
+Assigned actions
+=================
+
+Action 1 (25-04-2025): Final Implementation of US-14 and related Bug fixes
+
+Hours: 3
+
+Action 2 (25-04-2025) Wrote JUnit tests for US-14
+
+Hours: 1
+
+Action 3 (26-04-2025) Java Doc All Exisiting code I authored
+
+Hours: 2
+
+Other project work
+
+==================
+
+NONE
+
+Hours: 0
+
+Total hours: 6

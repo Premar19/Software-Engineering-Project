@@ -1,0 +1,44 @@
+Author: prs49
+Sprint: 10(30/04/25)
+
+Assigned actions
+=================
+
+Action 1: US16 Re-Implementation
+
+Deleted the entire existing replay class and created a new one using a different approach. Also added
+additional features that were not previously added such as an error message for an invalid file and other 
+game actions like reveal.
+
+Hours: 7
+
+Action 2: US13 Bug Fixing
+
+Did minor bug fixes for replay of dealing layout
+
+Hours: 1
+
+Action 3: Junit tests
+
+Attempted to create junit tests for US4, US13 and US16 but was not able to so requested support from scrum members.
+
+Hours: 1
+
+Action 4: JavaDocs
+
+Added a few java docs to the code for clarity and better understanding.
+
+Hours: 0.5
+
+Action 5: Meeting
+
+Discused all work to be done for the week with the scrum team
+
+Hours: 1
+
+
+Other project work
+==================
+
+
+Total hours: 10.5

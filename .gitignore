@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+.idea/
+out/
+target/
+*.o
+*~
+.DS_Store # For Mac users to exclude this auto generated directory
+*.class
+*.out
+*.log
+*.aux
+*.toc
+*.gz
+*.bbl
+*.blg

@@ -1,0 +1,21 @@
+Author: J0B130
+Sprint: 7
+(25/03/12)
+
+Assigned actions
+=================
+
+Action 1: US8 Implementation
+Implemented most of US.8
+
+Hours: 5
+
+Action 2: Research and plan US.18
+
+Hours: 2
+
+Other project work
+==================
+
+
+Total hours: 7

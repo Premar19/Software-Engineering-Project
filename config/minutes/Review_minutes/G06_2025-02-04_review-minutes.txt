@@ -1,0 +1,52 @@
+Project: Deck of Cards
+Meeting: Weekly Sprint review
+Persons present: All project members except Natalia Spence (out of town)
+Place and date of meeting: Library Room 5, Tuesday 4th February 2025
+Author: Niall Perry
+Version: 1.0
+Circulation list:
+- aba115: Abdullah Al-Samarrai
+- bie2: Billy Edwards
+- frs30: Francy Sasso (QA Deputy)
+- job130: Joe Ball
+- nip33: Niall Perry (QA Manager)
+- prs49: Prem Sharma
+- ref17: Reema Fraser
+- wis40: William Shipp
+
+Stories covered by review and their review status
+==================================================
+QA.01
+
+Report from Sprint review
+--------------------------
+Has everyone in the group created a powerpoint that reflects their assigned Qa?
+Yes
+
+Was Qa.01 covered and understood by everyone?
+Yes
+
+Was Qa.02 covered and understood by everyone?
+Yes
+
+Was Qa.03 covered and understood by everyone?
+Yes
+
+Was Qa.04 covered and understood by everyone?
+Yes
+
+Was Qa.05 covered and understood by everyone?
+NO
+
+Was Qa.06 covered and understood by everyone?
+Yes
+
+Was Qa.07 covered and understood by everyone?
+Yes
+
+Was Qa.08 covered and understood by everyone?
+Yes
+
+AOB
+------
+NONE

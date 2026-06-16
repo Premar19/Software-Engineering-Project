@@ -1,0 +1,27 @@
+Author: REF17
+Sprint:6 (12/03/25)
+Assigned actions
+=================
+Action 1: Testing table and sequence diagram for US4
+I created testing table for US4 – which was allowing the user to choose a background and setting it as the new default. I also created a sequence diagram for how US4 works.
+Hours: 3
+
+Action 2: Feedback on DS2: introduction
+I wrote the missing introduction which was given as feedback from the scrum coach. 
+Hours: 1
+
+
+Other work
+=================
+
+Action 3: Group input on the foundation of programming
+We held a meeting to discuss and implement a deck and cards so it would be possible for others to then write code on top of that. 
+Hours: 1
+
+Action 4: Review meeting 
+We reviewed some of the previous stories for the week and discussed whether they were fully completed or needed more work. 
+Hours: 1
+
+Total hours: 6
+
+

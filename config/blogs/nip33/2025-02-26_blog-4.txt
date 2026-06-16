@@ -1,0 +1,33 @@
+Author: nip33
+Sprint: 3(26/02/25)
+
+Assigned actions
+=================
+Wednesday -
+
+Action 1: Spike work stories on Junit testing
+
+in the process of producing a document on junit testing to better the Quality Assurance.
+Hours : 2
+---
+Friday - 
+
+Action 2: Seperate external meeting to Wrap up delay on sprint 2
+
+Spoke and discussed with the group on how to resolve any loose ends from UI prototype DS.1.1-9
+
+Hours: 1
+----
+Tuesday -
+
+Action 3: Write up minutes and notes
+
+Hours: 1
+
+
+Other project work
+==================
+NONE
+
+--------------------------------------- 
+Total hours: 4

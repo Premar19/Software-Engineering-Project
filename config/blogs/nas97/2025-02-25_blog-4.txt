@@ -1,0 +1,34 @@
+Author: nas97
+Sprint: 4(25/02/2025)
+
+Assigned actions
+=================
+
+Action 1: Package Diagram
+
+I created an initial package diagram with placeholder names based off the results of our meeting, and updated it later once we realised one of our classes was unnecessary.
+
+Hours: 2
+
+Action 2: Design Classes for Cards and Decks
+
+Since we figured out a general idea for this in our group meeting, I created a draft class diagram for these classes
+
+Hours: 1
+
+Other project work
+==================
+We held a meeting to figure out what we needed to do in the next 2 weeks, and decide the general structure of the program, including what classes we will make along with which user stories those will correspond to.
+
+Hours: 1
+
+Spike Work: JavaFX
+
+I did some in depth research as to how JavaFX works, specifically into how objects can be added to scenes interacted with, including various events and animations.
+I then created a LaTeX document to function as a guide to JavaFX, for anyone in the group to contribute to as spike work, with each section's author(s) being listed where appropriate.
+During this sprint, I wrote the introduction, the second chapter for adding nodes to a pane, and a full explanation of JavaFX events with examples.
+
+Hours: 9
+
+
+Total hours: 13

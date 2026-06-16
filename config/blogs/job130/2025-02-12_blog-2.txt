@@ -1,0 +1,25 @@
+Author: J0B130
+Sprint: 2(05/02/25)
+
+Assigned actions
+=================
+
+Action 1: DS.1.4: define_Table_Prototype
+
+Work on prototype presentation for US4
+
+Hours: 4
+
+Action 2: Correct file names
+
+
+
+Hours: 1
+
+Other project work
+==================
+NONE
+
+Hours: 0
+
+Total hours: 5

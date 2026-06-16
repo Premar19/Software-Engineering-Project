@@ -1,0 +1,33 @@
+Author: Wis40
+Sprint: 7(18/03/25)
+Assigned actions
+=================
+Action 1 (17-03-2025): Implementation of US - 2
+Implemented the functionality for US-2 (Selecting the number of joker cards) into the program, including Card and Deck init logic
+
+Hours: 5
+
+Action 2 (17-03-2025): Implementation of US - 5
+Implemented the functionality for US-5 (Shuffling Decks) into the program
+
+Hours: 1
+
+Action 3 (14-03-2025): Scrum meeting 
+Scrum meeting to discuss work over the week
+
+Hours: 1
+
+Action 4 (18-03-2025): Sprint Reveiw meeting 
+Disccusion of work completed towards ATP - 3 and development of the program
+
+Hours: 1
+
+Other project work
+
+==================
+
+NONE
+
+Hours: 0
+
+Total hours: 8

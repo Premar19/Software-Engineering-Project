@@ -1,0 +1,241 @@
+﻿Aberystwyth University
+Department of Computer Science
+________________
+
+
+File Handling in JavaFX
+Saving Game Recordings and Loading Images in a Card Game Application
+________________
+
+
+Abdullah Al-samarrai
+
+
+Module: Software Engineering
+
+
+Date: 4 April 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+* Overview
+
+* File Handling Use Cases
+
+* Relevant Classes and Components
+
+* File Types and Formats
+
+* Error Handling
+
+* User Flow Examples
+
+* Conclusion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+This report outlines how file handling is implemented within the JavaFX card game project. The application uses file handling in two core ways:
+   1. To allow users to record and replay game sessions.
+
+   2. To support custom image loading for card visuals and table backgrounds.
+________________
+
+
+File Handling Use Cases
+Saving and Loading Game Recordings
+A user can start a recording during gameplay, and once stopped, is prompted to save the recording using a FileChooser dialog. The recording is saved in a custom format (with a .csgr extension) that contains all necessary data to replay the game step-by-step or in autoplay mode.
+Later, the user can return to the application, select the "Replay" option from the main menu, and use another FileChooser dialog to load a previously saved recording. The system validates the file, initializes the game state, and allows the user to navigate through the game using on-screen controls.
+Loading Custom Images
+To give users the ability to personalize their game environment, Users can provide image files like png jpeg etc to replace:
+      * Card faces
+
+      * Card backs
+
+      * The table background
+
+The application checks for the presence of these user-provided files in predefined directories, such as /cards/user_images/ for card fronts. If a matching image is found, it is used instead of the default one bundled with the application.
+JavaFX’s Image and ImagePattern classes are used to dynamically load and apply these resources at runtime. This approach allows easy customization without requiring users to modify the code or recompile the application.
+________________
+
+
+Relevant Classes and Components
+To implement file handling in the application, the following components is used:
+FileChooser
+JavaFX’s FileChooser used to prompt users for file save/load operations in both recording and image customization workflows.
+Examples include:
+         * Saving a game recording after the user ends a recording session
+
+         * Opening a saved recording file from the Replay option in the main menu
+
+         * Letting users select custom image files (optional)
+
+The FileChooser class makes it easy to restrict file types, set default directories, and handle file path input through a standard UI.
+Image Handling
+To support custom visuals,  JavaFX Image class is used to load PNG files and ImagePattern to apply them to card and table components. the implementation checks if a custom image exists for a given card (e.g., "5_of_spades.png"), and if so, loads it using getResource(). Otherwise, it falls back to the default image.
+________________
+
+
+File Types and Formats
+File Type
+	Use Case
+	Format Description
+	.csgr
+	Full game recording
+	Serialized list of game actions
+	.csgrdl
+	Layout-only recording (dealing phase)
+	Serialized card/deck layout only
+	.png
+	Visual customization (cards/table)
+	Used for user-provided images
+	The .csgr and .csgrdl files contain structured data that the application replays to reproduce gameplay. PNG images must match expected filenames (e.g., 2_of_hearts.png) to be recognized.
+________________
+
+
+Error Handling
+implementation, basic error handling to deal with file-related issues:
+            * If the user selects an invalid or corrupted recording file, the system displays an error message and cancels the operation.
+
+            * If a custom image file is missing or unreadable, the system silently defaults to the original bundled image, preventing crashes.
+
+            * If the user cancels a FileChooser dialog, no changes are made, and the program continues normally.
+
+This ensures smooth operation even if users provide incomplete or incorrect input.
+________________
+
+
+User Flow Examples
+Saving a Recording
+               1. The user starts recording gameplay during a session.
+
+               2. Once they stop recording, a dialog prompts them to save.
+
+               3. A FileChooser window opens to specify filename and location.
+
+               4. The .csgr file is saved to disk for later playback.
+
+Replaying a Game
+                  1. The user clicks “Replay” on the main menu.
+
+                  2. A file browser opens to select a previously saved recording.
+
+                  3. If valid, the system loads the game state and actions.
+
+                  4. The user can step forward/back or use autoplay to review the game.
+
+Customizing the Table
+                     1. The user places PNG image files in /cards/user_images/ or similar folders.
+
+                     2. On game launch, the application checks for these files.
+
+                     3. If available, the images are used to render cards and backgrounds.
+
+________________
+
+
+Conclusion
+File handling in The JavaFX application enhances the user experience by making the game both functional and customizable. The use of FileChooser allows users to save and load game sessions easily, while support for custom image loading encourages personalization without complicating the codebase. These features align with common user expectations for modern desktop applications and add significant value to the gameplay experience.

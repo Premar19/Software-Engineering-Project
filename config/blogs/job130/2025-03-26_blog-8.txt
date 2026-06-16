@@ -1,0 +1,27 @@
+Author: J0B130
+Sprint: 8
+(25/03/12)
+
+Assigned actions
+=================
+
+Action 1: US9 Implementation and JUnit Tests
+
+Hours: 6
+
+Action 2: US10 Implementation and JUnit Tests
+
+
+Hours: 5
+
+Action 3: US8 JUnit tests.
+
+Hours: 1
+
+Other project work
+==================
+Friday meeting
+
+Hours: 1
+
+Total hours: 13

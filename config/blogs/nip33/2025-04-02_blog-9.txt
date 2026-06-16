@@ -1,0 +1,31 @@
+Author: nip33
+Sprint: 9(02/04/25)
+
+Assigned actions
+=================
+1. Friday meeting 
+Atteneded a meeting to discuss the feedback from AT3
+Hours: 1
+
+2. US11 Junit test
+Created Junit tests for revealing mulitple cards
+Hours: 1
+
+3. US16 System Tests 
+Added to the System test document for Auto playing a previously saved game
+Hours: 1
+
+4. Review Minutes
+Write up of what was discussed
+Hours: 0.5
+
+5. Plan minutes
+Write up of what was discussed
+Hours: 0.5
+
+Other project work
+==================
+NONE
+--------------------------------------- 
+
+Total Hours: 4

@@ -1,0 +1,487 @@
+Project: Deck of Cards
+Meeting: Weekly Review Meeting
+Persons present: All project members except Abdullah Al-Samarrai and Billy Edwards
+Place and date of meeting: Room 6, Tuesday 25th March 2025
+Author: Niall Perry
+Version: 1.0
+Circulation list:
+- frs30: Francy Sasso (Deputy QA Manager)
+- job130: Joe Ball
+- nas97: Natalia Spence (Team Leader)
+- nip33: Niall Perry (QA Manager)
+- prs49: Prem Sharma
+- ref17: Reema Fraser (Deputy Team Leader)
+- wis40: William Shipp
+- aba115: Abdullah Al-Samarrai
+
+Stories covered by review and their review status
+================================================
+DS1: Done
+DS2: Done
+DS3: Done
+US1: Done
+US2: Done
+US5: Done
+US6: Done
+US7: Done
+US8: Done
+US9: Done
+US10: Done
+US12: Done
+
+Story DS2: Document story checklist (if appropriate)
+======================================
+See Appendix A of SE.QA.07.
+1. Do all document story documents have the following information on the front cover:
+
+a) Title (indicating Group_name and nature of document)?
+Yes.
+
+b) Author(s): names and emails (in parentheses)?
+Yes.
+
+c) Date when the latest version was produced?
+Yes.
+
+d) Version number (correct)?
+Yes.
+
+e) Document status must be For Review prior to the review. Is this correct?
+Yes.
+
+f) Name, Address of Dept and Copyright notice? This year’s date for the copyright?
+Yes.
+
+2. Does the header for the document contain title, version and status on each page?
+Yes.
+
+3. Does the footer contain "Aberystwyth University / Computer Science" and "Page x of y" correctly?
+Yes.
+
+4. Does the document contain specified sections:
+
+a) Contents.
+Yes.
+
+b) Introduction: Purpose of document, Scope, Objectives.
+Yes.
+
+c) <Main Body> with appropriate sections.
+Yes.
+
+d) References
+Yes.
+
+e) Document Change History with Version, Issue No., Date, Changes Made to Document, Changed by.
+Yes.
+
+5. Are the sections numbered correctly from 1?
+Yes.
+
+6. Are fonts appropriate in headers and in body text and based on the provided templates (Word or Latex)?
+No, an atempt at latex was made but not yet successful.
+
+
+Story DS2: Design specification checklist
+==============================================
+See Appendix C1 of SE.QA.07
+
+1. Does the document meet the General Document Standards (see [5] and questions in appendix A)?
+Yes, using the example document as reference
+
+2. Are all the programs in the system described and represented within a deployment diagram?
+Yes.
+
+3. Does the description and deployment diagram also cover other elements in the system, e.g. networks etc?
+Yes.
+
+4. Is there a package diagram for each program in the system?
+Yes.
+
+5. Are there class diagrams with package symbols and other correct UML notation for those parts of the
+system already delivered?
+Yes.
+
+6. Is there a separate class diagram for each program in the system? This is only for those parts of the
+system delivered so far.
+Yes, except for US14-18
+
+7. Are the class diagrams consistent with the package diagram? This is only for those parts of the system
+delivered so far.
+Yes.
+
+8. Is there a table mapping of user stories the classes?
+Yes.
+
+9. Are important data structures highlighted? This is only for those parts of the system delivered so far.
+Yes.
+
+10. Are key interactions between system users, objects and across programs captured by UML sequence
+diagrams? This is only for those parts of the system delivered so far.
+Yes.
+
+11. Are there separate sequence diagrams for each program in the system? This is only for those parts of the
+system delivered so far.
+Yes.
+
+12. Are the sequence diagrams consistent with class diagrams, i.e. same classes used?
+Yes.
+
+13. Do the reviewers understand the design?
+Yes.
+
+14. Can the design be simplified? Remember the Agile Manifesto principle: Simplicity—the art of
+maximizing the amount of work not done—is essential.
+No.
+
+15. Will the design lead to a maintainable system?
+Yes.
+
+16. Could the design be modified to offer more opportunity for reusing existing software libraries?
+No, library functions are used efficiently.
+
+Story DS3: Test specification checklist
+========================================================
+See Appendix D of SE.QS.07.
+1. For the system test specification, does the document meet the General Document Standards?
+Yes.
+
+2. Do the Test Specifications have the columns: Test Ref, User Story, Test content,
+Input, Output, Pass criteria, Result / Fail reason, for each functional requirement and
+each non-functional attribute identified in the story?
+Yes, for the ones done so far.
+
+3. Do the system tests cover every Sprint Backlog User story?
+Yes.
+
+4. Are the system tests repeatable, i.e., is explicit test input data included?
+Yes, for the ones done so far.
+
+5. Do the system tests for each user story cover all possibilities?
+In particular, do they test for all possible types of failure? Are boundary conditions tested?
+Yes, for the ones done so far.
+
+6. Have all previous system tests as well as the current sprint tests passed?
+Yes.
+
+7. Where a system test has failed, is the reason for the failure made clear?
+Yes.
+
+8. Have adequate unit tests been written for the current Sprint’s User Stories? Are they automated correctly?
+Yes.
+
+9. Is there evidence that the unit tests are passing
+Yes.
+
+Story US4: Software verification checklists
+===========================================================
+
+US1 Define the number of decks on the table and display those decks
+---------------------------------------------------------------------
+
+1. Does the code unit definition match the one given in the Design Specification (test code is not covered
+by this)?
+Yes.
+
+2. Does the code achieve what is specified in the Design Specification (test code is not covered by this)?
+Yes.
+
+3. Does the code unit header meet the Coding Standards SE.QA.09 [6]?
+Yes.
+
+4. Are there appropriate comments to document the code unit, as defined in the coding standards?
+Yes.
+
+5. Are there sufficient other comments to guide the maintainer?
+Yes.
+
+6. Are all variables initialised before their values are used?
+Yes.
+
+7. Have all constants been named?
+Yes.
+
+8. Is each loop certain to terminate?
+Yes.
+
+9. Are upper and lower bounds of arrays sensible?
+Yes.
+
+US2 Define the number of Jokers allowed in each card deck.
+---------------------------------------------------------------------
+
+1. Does the code unit definition match the one given in the Design Specification (test code is not covered
+by this)?
+Yes.
+
+2. Does the code achieve what is specified in the Design Specification (test code is not covered by this)?
+Yes.
+
+3. Does the code unit header meet the Coding Standards SE.QA.09 [6]?
+Yes.
+
+4. Are there appropriate comments to document the code unit, as defined in the coding standards?
+Yes.
+
+5. Are there sufficient other comments to guide the maintainer?
+Yes.
+
+6. Are all variables initialised before their values are used?
+Yes.
+
+7. Have all constants been named?
+Yes.
+
+8. Is each loop certain to terminate?
+Yes.
+
+9. Are upper and lower bounds of arrays sensible?
+Yes.
+
+US5 Randomly shuffle a card deck
+---------------------------------------------------------------------
+
+1. Does the code unit definition match the one given in the Design Specification (test code is not covered
+by this)?
+Yes.
+
+2. Does the code achieve what is specified in the Design Specification (test code is not covered by this)?
+Yes.
+
+3. Does the code unit header meet the Coding Standards SE.QA.09 [6]?
+Yes.
+
+4. Are there appropriate comments to document the code unit, as defined in the coding standards?
+Yes.
+
+5. Are there sufficient other comments to guide the maintainer?
+Yes.
+
+6. Are all variables initialised before their values are used?
+Yes.
+
+7. Have all constants been named?
+Yes.
+
+8. Is each loop certain to terminate?
+Yes.
+
+9. Are upper and lower bounds of arrays sensible?
+Yes.
+
+US6 Use the mouse or trackpad or keyboard shortcut input to move a single card around the table
+---------------------------------------------------------------------
+
+1. Does the code unit definition match the one given in the Design Specification (test code is not covered
+by this)?
+Yes.
+
+2. Does the code achieve what is specified in the Design Specification (test code is not covered by this)?
+Yes.
+
+3. Does the code unit header meet the Coding Standards SE.QA.09 [6]?
+Yes.
+
+4. Are there appropriate comments to document the code unit, as defined in the coding standards?
+Yes.
+
+5. Are there sufficient other comments to guide the maintainer?
+Yes.
+
+6. Are all variables initialised before their values are used?
+Yes.
+
+7. Have all constants been named?
+Yes.
+
+8. Is each loop certain to terminate?
+Yes.
+
+9. Are upper and lower bounds of arrays sensible?
+Yes.
+
+US6 Reposition a card within a group of cards
+---------------------------------------------------------------------
+
+1. Does the code unit definition match the one given in the Design Specification (test code is not covered
+by this)?
+Yes.
+
+2. Does the code achieve what is specified in the Design Specification (test code is not covered by this)?
+Yes.
+
+3. Does the code unit header meet the Coding Standards SE.QA.09 [6]?
+Yes.
+
+4. Are there appropriate comments to document the code unit, as defined in the coding standards?
+Yes.
+
+5. Are there sufficient other comments to guide the maintainer?
+Yes.
+
+6. Are all variables initialised before their values are used?
+Yes.
+
+7. Have all constants been named?
+Yes.
+
+8. Is each loop certain to terminate?
+Yes.
+
+9. Are upper and lower bounds of arrays sensible?
+Yes.
+
+US7 Randomly shuffle a card deck
+---------------------------------------------------------------------
+
+1. Does the code unit definition match the one given in the Design Specification (test code is not covered
+by this)?
+Yes.
+
+2. Does the code achieve what is specified in the Design Specification (test code is not covered by this)?
+Yes.
+
+3. Does the code unit header meet the Coding Standards SE.QA.09 [6]?
+Yes.
+
+4. Are there appropriate comments to document the code unit, as defined in the coding standards?
+Yes.
+
+5. Are there sufficient other comments to guide the maintainer?
+Yes.
+
+6. Are all variables initialised before their values are used?
+Yes.
+
+7. Have all constants been named?
+Yes.
+
+8. Is each loop certain to terminate?
+Yes.
+
+9. Are upper and lower bounds of arrays sensible?
+Yes.
+
+US8 Use the mouse or trackpad or keyboard shortcut input to move a player’s cards around the table
+---------------------------------------------------------------------
+
+1. Does the code unit definition match the one given in the Design Specification (test code is not covered
+by this)?
+Yes.
+
+2. Does the code achieve what is specified in the Design Specification (test code is not covered by this)?
+Yes.
+
+3. Does the code unit header meet the Coding Standards SE.QA.09 [6]?
+Yes.
+
+4. Are there appropriate comments to document the code unit, as defined in the coding standards?
+Yes.
+
+5. Are there sufficient other comments to guide the maintainer?
+Yes.
+
+6. Are all variables initialised before their values are used?
+Yes.
+
+7. Have all constants been named?
+Yes.
+
+8. Is each loop certain to terminate?
+Yes.
+
+9. Are upper and lower bounds of arrays sensible?
+Yes.
+
+US9 Flip individual cards over.
+---------------------------------------------------------------------
+
+1. Does the code unit definition match the one given in the Design Specification (test code is not covered
+by this)?
+Yes.
+
+2. Does the code achieve what is specified in the Design Specification (test code is not covered by this)?
+Yes.
+
+3. Does the code unit header meet the Coding Standards SE.QA.09 [6]?
+Yes.
+
+4. Are there appropriate comments to document the code unit, as defined in the coding standards?
+Yes.
+
+5. Are there sufficient other comments to guide the maintainer?
+Yes.
+
+6. Are all variables initialised before their values are used?
+Yes.
+
+7. Have all constants been named?
+Yes.
+
+8. Is each loop certain to terminate?
+Yes.
+
+9. Are upper and lower bounds of arrays sensible?
+Yes.
+
+US10 Flip a group of cards over
+---------------------------------------------------------------------
+
+1. Does the code unit definition match the one given in the Design Specification (test code is not covered
+by this)?
+Yes.
+
+2. Does the code achieve what is specified in the Design Specification (test code is not covered by this)?
+Yes.
+
+3. Does the code unit header meet the Coding Standards SE.QA.09 [6]?
+Yes.
+
+4. Are there appropriate comments to document the code unit, as defined in the coding standards?
+Yes.
+
+5. Are there sufficient other comments to guide the maintainer?
+Yes.
+
+6. Are all variables initialised before their values are used?
+Yes.
+
+7. Have all constants been named?
+Yes.
+
+8. Is each loop certain to terminate?
+Yes.
+
+9. Are upper and lower bounds of arrays sensible?
+Yes.
+
+US12 Save dealing layout configuration
+---------------------------------------------------------------------
+
+1. Does the code unit definition match the one given in the Design Specification (test code is not covered
+by this)?
+Yes.
+
+2. Does the code achieve what is specified in the Design Specification (test code is not covered by this)?
+Yes.
+
+3. Does the code unit header meet the Coding Standards SE.QA.09 [6]?
+Yes.
+
+4. Are there appropriate comments to document the code unit, as defined in the coding standards?
+Yes.
+
+5. Are there sufficient other comments to guide the maintainer?
+Yes.
+
+6. Are all variables initialised before their values are used?
+Yes.
+
+7. Have all constants been named?
+Yes.
+
+8. Is each loop certain to terminate?
+Yes.
+
+9. Are upper and lower bounds of arrays sensible?
+Yes.

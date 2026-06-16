@@ -1,0 +1,30 @@
+Author: Wis40
+Sprint: 5(04/03/25)
+Assigned actions
+=================
+Action 1 (03-03-2025): US-7 Pseudocode
+
+Created the pseudocode for US-7 for the architectural design document
+
+Hours: 3
+
+Action 2 (03-03-2025): US-17 Pseudocode
+
+Created the pseudocode for US-17 for the architectural design document
+
+Hours: 3
+
+Action 3 (04-03-2025): Sprint Reveiw meeting 
+Further discussion about work complted on architectural design document during previous sprint
+
+Hours: 1
+
+Other project work
+
+==================
+
+NONE
+
+Hours: 0
+
+Total hours: 7

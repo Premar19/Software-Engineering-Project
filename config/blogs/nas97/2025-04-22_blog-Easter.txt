@@ -1,0 +1,20 @@
+Author: nas97
+Sprint: 1(29/04/2025)
+
+Assigned actions
+=================
+
+Action 1: US12/13/15/16
+
+Worked with Prem to rewrite replay and some of recording after discovering a design flaw
+
+Hours: 8
+
+Other project work
+==================
+Me and Prem held a meeting to figure out replay code, and me and Niall held another to figure out what was going on
+with the system tests.
+
+Hours: 3
+
+Total Hours: 11

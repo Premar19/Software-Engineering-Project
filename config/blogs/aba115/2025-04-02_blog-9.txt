@@ -1,0 +1,22 @@
+﻿Author: ABA115
+Sprint: 9 (02/04/25)
+
+
+Assigned actions
+===============================================================
+Action 1: redoing US10
+Made it more detailed and relevant to the code the group did aswell improvved the description.
+Hour: 1 hours
+===============================================================
+Action 2: sequence diagram and  description for US16 and 15
+Made a detailed sequence diagram with references to the code and explained the diagram in detail.
+Hours:3
+
+
+Other project work
+===================================================================
+Friday meeting to ensure the remaining nice to have tasks are allocated.
+Hours:1
+
+
+Total hours: 5

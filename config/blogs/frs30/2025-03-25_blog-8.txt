@@ -1,0 +1,29 @@
+Author: Frs30
+Sprint: 8(25/03/25)
+
+Assigned actions
+=================
+
+Action 1: US3 Implementation
+
+Completed all US3 needed implementation screen functionalisites and UI features, dealing with file updates and screen activity; missing centered button when name display changes.
+
+Hours: 10
+
+Action 2: US3 JUnit tests
+
+Compiled most JUnit tests needed for the user Story.
+
+Housr: 4
+
+
+Other project work
+==================
+
+Action 3: Uploading System test tables
+
+Uploaded all th esystem test tables I had made onto a share google docks file
+
+Hours: 0
+
+Total hours: 14

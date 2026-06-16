@@ -1,0 +1,36 @@
+Author: prs49
+Sprint: 3(18/02/25)
+
+Assigned actions
+=================
+
+Action 1: DS.1.6: Use the mouse or trackpad or keyboard shortcut input to move a single card around the table prototype
+
+Corrected and replaced the images used for the final powerpoint slides that were for the user story 6, so that that segment of the prototype could be finally regarded as done.
+
+Hours: 1
+
+Action 2: DS.1.12: Save_dealing_layout_configuration Prototype
+
+Created the prototype for how the dealing layout may be saved and what may be the possible conditions and erros when the user tries to save their layout recording
+
+Hours: 5
+
+Action 3: Editing format for all my slides in the presentation
+
+I went through everyone's slides making sure that text format and image sizes matched eachother more smoothly.
+
+Hours: 1
+
+
+Other project work
+==================
+
+Action 4: Spent some time understand how Java FX works and how the coding of this specific task may be implemented.
+
+Watched relevant videos and understood the format for coding in Java FX and how the scene builder works.
+
+Hours: 1
+
+
+Total hours: 8

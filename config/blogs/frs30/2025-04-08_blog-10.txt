@@ -1,0 +1,43 @@
+Author: Frs30
+Sprint: 10(08/04/25)
+
+Assigned actions
+=================
+
+Action 1: US3 Java Doc comments
+
+I begun to complete my full java doc comments for all my code.
+
+Hours: 4
+
+Action 2: US5 sequence diagram description
+
+Wrote a diagram description for my sequence diagram.
+
+Hours: 1
+
+Action 3: US6 sequence diagram description
+
+Wrote a diagram description for my sequence diagram.
+
+Hours: 1
+
+Action 4: US4 sequence diagram
+
+Drew up a sequence diagram for US14
+
+Hours: 1
+
+Action 5: US14 system tests
+
+Wrote the system tests for US14
+
+Hours: 1
+
+
+Other project work
+==================
+
+N/A
+
+Total hours: 8

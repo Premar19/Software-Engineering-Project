@@ -1,0 +1,50 @@
+Author: nas97
+Sprint: 8(25/03/2025)
+
+Assigned actions
+=================
+
+Action 1: Finish US12 and extend US15
+
+Finish US12 by only recording the correct actions, add more actions to US15 recording, unit test US12
+
+Hours: 2
+
+Action 2: Add images to table menu
+
+I added images to the table menu
+
+Hours: 1
+
+Action 3: Update README format
+
+I updated the README format to reflect feedback from DS2 and added a controls table
+
+Hours: 1
+
+Action 4: Bug Fixes
+
+I fixed a large number of bugs present in the codebase
+
+Hours: 3
+
+Action 5: US12 Sequence Diagram
+
+I created the sequence diagram for US12
+
+Hours: 1
+
+Action 6: Prevent maven deleting custom images on clean
+
+I updated the pom.xml file to prevent maven from cleaning user uploaded images
+
+Hours: 1
+
+Other project work
+==================
+We held a meeting to discuss progress, reassign tasks where some people had too much and others too little, and
+check we can get enough work done on time
+
+Hours: 1
+
+Total Hours: 10

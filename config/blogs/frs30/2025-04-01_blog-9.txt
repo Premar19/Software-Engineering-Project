@@ -1,0 +1,25 @@
+Author: Frs30
+Sprint: 9(01/04/25)
+
+Assigned actions
+=================
+
+Action 1: US3 Finishing touches
+
+Completed all US3 needed implementation and fixed the finishing UI bugs.
+
+Hours: 5
+
+Action 2: Fully caught up the needed issues on the issue board
+
+Compiled with review of previous minutes and group discussion, issues have been made for each team member.
+
+Housr: 2
+
+
+Other project work
+==================
+
+N/A
+
+Total hours: 7

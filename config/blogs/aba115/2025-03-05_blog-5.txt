@@ -1,0 +1,28 @@
+Author: Aba115
+Sprint:5 (04/03/25)
+
+
+Assigned actions
+
+
+=================
+Action 1: pseudocode for US6
+I created pseudocode for  Using the mouse or Trackpad or keyboard shortcut input to move a single card around the table and further explained how the code would work.
+
+
+Hours: 1.5
+=================
+
+
+Action 2: pseudocode for US8
+I created pseudocode for  Using the mouse or Trackpad or keyboard shortcut input to move a Player’s cards around the table and explained the code as well as generated general code on a empty project to test code in intellij for both US.
+
+
+Hours: 1.5
+
+
+
+
+
+
+Total hours: 3

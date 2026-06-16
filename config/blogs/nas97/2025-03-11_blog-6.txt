@@ -1,0 +1,32 @@
+Author: nas97
+Sprint: 6(11/03/2025)
+
+Assigned actions
+=================
+
+Action 1: Package diagram changes
+
+After feedback from DS2, I changed the package diagram slightly.
+
+Hours: 0
+
+Action 2: US12/15 Implementation
+
+I wrote all of the code for US12/15 that I was able with the current state of the program.
+
+Hours: 6
+
+Action 3: Basic Deck Implementation
+
+I created a very basic deck implementation that only allows the player to move it around and draw a blank card so that
+we would be able to continue implementing other aspects of the program.
+
+Hours: 1
+
+Other project work
+==================
+We held a meeting to design and code a basic blank card and action popup.
+
+Hours: 1
+
+Total Hours: 8

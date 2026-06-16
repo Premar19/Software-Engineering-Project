@@ -1,0 +1,66 @@
+Author: Frs30
+Sprint: Easter holiday
+
+Assigned actions
+=================
+
+Action 1: US18 sequence diagram
+
+Drew up the sequence diagram for it, and wrote a diagram description.
+
+Hours: 1
+
+Action 2: US12 sequence diagram
+
+Wrote the description for US12 sequence diagram.
+
+Hours: 1
+
+Action 3: US2 Java doc comments
+
+Took over writing the Java doc comments for US2
+
+Hours: 1
+
+Action 4: US7 pseudocode
+
+Rewrote the pseudocode for US7
+
+Hours: 1
+
+Action 5: US3 Java Doc comments
+
+Finished commenting and sorting out all of my code for US3.
+
+Hours: 4
+
+
+Other project work
+==================
+
+Action 6: Title background
+
+Drew up background bitmap image for the title page
+
+Hours: 4
+
+Action 7: Costumisation background
+
+Drew up background bitmap image for the costumisation page
+
+Hours: 1
+
+Action 8: FrontCardCostumisation background
+
+Drew up background bitmap image for the frontCardCostumisation page
+
+Hours: 5
+
+Action 9: Table background
+
+Drew up background bitmap image for the table page
+
+Hours: 3
+
+
+Total hours: 21

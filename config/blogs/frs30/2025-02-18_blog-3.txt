@@ -1,0 +1,42 @@
+Author: Frs30
+Sprint: 3(18/02/25)
+
+Assigned actions
+=================
+
+Action 1: DS.1.9: flip_cards_ Prototype
+
+Corrected and replaced the images used for the final powerpoint slides that were for the user story 9, so that that segment of the prototype could be finally regarded as done.
+
+Hours: 1
+
+Action 2: DS.1.10: flip_group_cards Prototype
+
+Mapped out and created the script and corresponding images for the user story 10, for the different scenarios to handle a user's actions/errors. 
+
+Hours: 6
+
+Action 3: Editing format through out prototype document
+
+I went through everyone's slides making sure that text format and image sizes matched eachother more smoothly.
+
+Hours: 4
+
+Action 4: Took over 'DS.1.1: Define the number of decks on the table and display those decks' since the individual who had previously been assigned to it hadn't been responding or producing any type of work since the end of week 1
+
+Mapped out and created the script and corresponding images for the user story 1
+
+Hours: 1
+
+
+Other project work
+==================
+
+Action 5: On the GitLab issue board, change the format of the first 9 DS.1 stories to be more descriptive and change the presentation titles to be in the form PS1.01, etc..
+
+Quickly edited the GitLab's issue board so every powerpoint presentation story included it's PS ID, and the previous prototype stories were more descriptive within their titles.
+
+Hours: 1
+
+
+Total hours: 13

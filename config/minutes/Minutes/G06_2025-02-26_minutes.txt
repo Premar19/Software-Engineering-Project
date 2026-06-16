@@ -1,0 +1,104 @@
+Project: Deck of Cards
+Meeting: Weekly Sprint plan
+Persons present: All project members present except Abdullah Al-Samarrai (illness) and Billy Edwards
+Place and date of meeting: 0.21 Cledwyn Building, Wednesday 26th February 2025
+Author: Niall Perry
+Version: 1.0
+Circulation list:
+- frs30: Francy Sasso (Deputy QA Manager)
+- job130: Joe Ball
+- nas97: Natalia Spence (Team Leader)
+- nip33: Niall Perry (QA Manager)
+- prs49: Prem Sharma
+- ref17: Reema Fraser (Deputy Team Leader)
+- wis40: William Shipp
+- mua19: Muhammad Aslam (Scrum Coach)
+
+Matters arising from previous meetings
+======================================
+1. Reread QA.06-09 for Discussion
+Action: All
+Status: Done
+
+New Buisness
+=============
+
+Report from Sprint Planning
+--------------------------
+
+2. Book a meeting for Friday to later discus on how we will implement Title Screen
+Action: nip33
+
+3. Add the import photo function to UI Protoype
+Action: nip33
+
+4. Add blogs to Devs doc
+Action: bie3
+
+5. Finish System diagram 
+Action: wis40
+
+6. Update UI prototype based on feedback
+Action: ref17
+Status: Done
+
+7. Put issues on to Gitlab
+Action: frs30
+
+8. Package diagram
+Action: nas97
+Status: Done
+
+9. Classes for objects on table
+Action: nas97
+
+10. Spike work for Sound
+Action: job130
+
+11. Spike word for Junit test
+Action: nip33
+
+12. Start DS2 document
+Action: ref17
+
+13. Pseudo code for US12 and US15
+Action: nas97
+
+14. Pseudo code for US13 and US16
+Action: prs49
+
+15. Pseudo code for US3 and US14
+Action: nip33
+
+16. Pseudo code for US4 and US18
+Action: job130
+
+17. Pseudo code for US7 and US17
+Action: wis40
+
+18. Pseudo code for US9, US10 and US11
+Action: frs30
+
+19. Pseudo code for US5 and US8
+Action: ref17
+
+20. Pseudo code for US1 and US2
+Action: bie2
+
+21. Pseudo code for US6 and US8
+Action: aba115
+
+22. Move Spike work documents to Dev folder on gitlab
+Action: nas97
+
+Retrospective 
+------------
+The input of what was meant to be done last weeks was not clear, so we have gone ahead with our own plan to get daily hours to required amount (8)
+
+Other matters
+----------------
+23. Billy is on an Orange card as of the date of this sprint plan.
+
+AOB
+-----
+NONE

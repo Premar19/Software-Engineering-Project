@@ -1,0 +1,175 @@
+Project: Deck of Cards
+Meeting: Weekly Sprint review
+Persons present: All project members present except Frassy Sasso (illness), Billy Edwards 
+Place and date of meeting: 0.21 Cledwyn Building, Wednesday 26th March 2025
+Author: Niall Perry
+Version: 1.0
+Circulation list:
+- job130: Joe Ball
+- nip33: Niall Perry
+- nas97: Natalia Spence (Team Leader)
+- prs49: Prem Sharma
+- ref17: Reema Fraser (Deputy Team Leader)
+- wis40: William Shipp
+- mua19: Muhammad Aslam (Scrum Coach)
+
+Matters arising from previous meetings
+======================================
+
+1. US2 - Joker count code and unit tests
+Action: wis40
+Status: Done
+
+2. US3 - Finish Card deck images
+Action: nip33
+Status: Done
+
+3. US3 - Choose card front (code)
+Action: frs30
+Status: Done
+
+4. US3 - Choose card front unit tests
+Action: frs30
+Status: Done
+
+5. US4 - Choose background code and unit tests
+Action: prs49
+Status: Done
+
+6. US5 - Shuffle code and unit tests
+Action: wis40
+Status: Done
+
+7. US7 - Reposition card within pack test table 
+Action: nip33
+Status: Done
+
+8. US7 - Reposition card within pack design
+Action: nip33
+Status: Done
+
+9. US8 - Move card group code and unit tests
+Action: job130
+Status: Done
+
+10. US8 - Move card group test table
+Action: nas97
+Status: Done
+
+11. US9 - Flip a card unit tests
+Action: prs49
+Status: Done
+
+12. US9 - Flip a card design
+Action: prs49
+Status: Done
+
+13. US10 - Flip card group test table
+Action: aba115
+Status: Done
+
+14. US11 - Reveal card group implementation and unit tests
+Action: nip33
+Status: Done
+
+15. US11 - Reveal card group test table
+Action: nas97
+Status: Done
+
+16. US12 - Save dealing layout code and unit tests
+Action: nas97 
+Status: Done
+
+17. US13 - Deal out cards from layout code and unit tests
+Action: prs49
+Status: Done
+
+18. US14 - Rotating cards code and unit tests
+Action: wis40
+Status: Done
+
+19. US15 - Recording a game code and unit tests
+Action: nas97
+Status: Done
+
+20. US16 - Replaying games code and unit tests
+Action: prs49
+Status: Rolled over
+
+21. US18 - Sound effects code and unit tests
+Action: job130
+Status: Rolled over
+
+22. US5 - Shuffle animation
+Action: ref17
+Status: Done
+
+23. US6 & US8 - Implement the keyboard arrow key movements
+Action: job130
+Status: Done
+
+24. US7 - Reposition card within pack implementation and unit tests
+Action: wis40
+Status: Done
+
+25. US9 - Flip a card implementation (Code exists)
+Action: ref17
+Status: Done
+
+26. US12 & US15 - Restricting recording range
+Action: nas97
+Status: Done
+
+27. US12 - Save dealing layout design
+Action: ref7
+Status: Done
+
+28. US13 - Deal out cards from layout test table
+Action: ref17
+Status: Done
+
+29. US13 - Deal out cards from layout design
+Action: nas97
+Status: Done
+
+New Buisness
+=============
+
+Report from Sprint Planning
+--------------------------
+
+30. US11 JUnit tests
+Action: nip33
+
+31. US3 Cardbacks
+Action: ref17
+
+32. State Diagram
+Action: ref17
+
+33. Call a meeting on Friday for ATP3 Feedback
+Action: All
+
+34. 15 and 16 Design Diagrams
+Action: aba115
+
+35. Design Diagrams
+Action: nas97
+
+36. US14 system tests
+Action: frs30
+
+37. US16 System tests 
+Action: nip33
+
+38. US18 system tests
+Action: ref7
+
+Other Matters
+------------------
+NONE
+
+AOB
+----------------
+NONE
+

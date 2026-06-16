@@ -1,0 +1,42 @@
+Author: REF17
+Sprint:9 (01/04/25)
+Assigned actions
+=================
+Action 1: US18.2 System tests
+I created system tests for US 18.
+Hours: 1
+
+Action 2: US17.2 System tests
+I created system tests for US 17.
+Hours: 1
+
+Action 3: Correct bugs in US3 code
+I had to revisit my code as some part of that story wasn’t working correctly. I looked through the code along with nas97 to find the issue. 
+Hour: 1 
+
+Action 4: US5 pseudocode rewrite
+I rewrote previously written pseudocode into the correct format
+Hours: 1
+
+Action 5: JavaDoc comments
+I created javaDoc comments for code I had written.
+Hours: 1
+
+
+Other project work
+==================
+Action 6: Review meetings
+We checked over stories that needed to be rolled over and confirmed work that has been completed and put it into the done section. 
+Hour: 1
+
+Action 7: Catchup meeting
+We held a meeting for a mid-way sprint, this included assigning more stories based on how much was able to be completed to that point. It also included time to discuss for help and opinions.
+Hours:1
+
+
+Total hours: 7
+
+
+
+
+

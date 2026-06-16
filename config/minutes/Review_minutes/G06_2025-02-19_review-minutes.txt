@@ -1,0 +1,79 @@
+Project: Deck of Cards
+Meeting: Weekly Sprint review
+Persons present: All project members except Billy Edwards
+Place and date of meeting: Library room 7, Tuesday 18th February 2025
+Author: Niall Perry
+Version: 1.0
+Circulation list:
+- aba115: Abdullah Al-Samarrai
+- frs30: Francy Sasso (Deputy QA Manager)
+- job130: Joe Ball
+- nas97: Natalia Spence (Team Leader)
+- nip33: Niall Perry (QA Manager)
+- prs49: Prem Sharma
+- ref17: Reema Fraser (Deputy Team Leader)
+- wis40: William Shipp
+
+Stories covered by review and their review status
+==================================================
+DS.1 : Rolled
+
+1. DS.1.1: define_Numbers_Prototype done to a good standard/completed?
+Yes
+
+2. DS.1.2: define_Jokers_Prototype done to a good standard/completed?
+Yes
+
+3. DS.1.3: define_images_Prototype done to a good standard/completed?
+Yes
+
+4. DS.1.4: define_Table_Prototype done to a good standard/completed?
+Yes
+
+5. DS.1.5: random_Shuffle_Prototype done to a good standard/completed?
+Yes
+
+6. DS.1.6: control_Cards_Prototype done to a good standard/completed?
+Yes
+
+7. DS.1.7: reposition_Cards_Prototype done to a good standard/completed?
+Yes
+
+8. DS.1.8: shortcut_Input_ Prototype done to a good standard/completed?
+Yes
+
+9. DS.1.9: flip_Cards_ Prototype done to a good standard/completed?
+Yes
+
+10. DS.1.10-flip_group_cards done to a good standard/completed?
+No
+
+11. DS.1.11-reveal_cards done to a good standard/completed?
+Yes
+
+12. DS.1.12-save_layout done to a good standard/completed?
+Yes
+
+13. DS.1.13-deal_layout done to a good standard/completed?
+Yes
+
+14. DS.1.14-rotate_card done to a good standard/completed?
+No
+
+15. DS.1.15-record_game done to a good standard/completed?
+Yes
+
+16. DS.1.16-autoplay_game done to a good standard/completed?
+Yes
+
+17. DS.1.17-snap_to_grid done to a good standard/completed?
+No
+
+18. DS.1.18-sound_effects done to a good standard/completed?
+Yes
+
+
+AOB
+------
+NONE
+

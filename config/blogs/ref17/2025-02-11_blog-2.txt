@@ -1,0 +1,20 @@
+Author: REF17
+Sprint: 2 (11/02/25)
+Assigned actions
+=================
+Action 1: Create UI prototype for DS.1.5
+I planned out the design for shuffling decks � where the user is able to select a deck and click the shuffle button. After discussing with the group, I redesigned my prototype after conforming to the group�s ideas.
+Hour: 3 hours
+
+Action 2: Create PowerPoint on prototype 
+I then created a PowerPoint based on my design using images the team agreed on, showing shuffling with animation. It showed what happens when the user interacts with buttons and cards. It also covers edge cases of, for example, for shuffling an already shuffled deck.
+Hours: 2
+
+Other project work
+==================
+We held a meeting about the design for screens, this resulted in me changing the design of my screens to keep all design uniform.
+Hours:1
+
+
+Total hours: 6
+

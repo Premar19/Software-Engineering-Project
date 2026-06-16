@@ -1,0 +1,190 @@
+Project: Deck of Cards
+Meeting: Weekly Sprint plan
+Persons present: All project members present except Abdullah Al-Samarrai (illness), Niall Perry (BUCS Waterpolo Match) and Frassy Sasso (BUCS Volleyball Match) 
+Place and date of meeting: 0.21 Cledwyn Building, Wednesday 12th March 2025
+Author: Niall Perry
+Version: 1.0
+Circulation list:
+- job130: Joe Ball
+- nas97: Natalia Spence (Team Leader)
+- prs49: Prem Sharma
+- ref17: Reema Fraser (Deputy Team Leader)
+- wis40: William Shipp
+- mua19: Muhammad Aslam (Scrum Coach)
+
+Matters arising from previous meetings
+======================================
+1. Spike work for Sound
+Action: job130
+Status: Rolled over
+
+2. Spike word for Junit test
+Action: nip33
+Status: Done
+
+3. Pseudo code for US4 and US18
+Action: job130
+Status: Done
+
+4. Pseudo code for US1 and US2
+Action: bie2
+Status: Done by wis40
+
+5. Pseudo code for US6 and US8
+Action: aba115
+Status: Done
+
+6. Add final elements (Appendix E & D) to design document
+Action: nip33
+Status: Rolled over
+
+7. Update package diagram with description
+Action: wis40
+Status: Done
+
+8. Make changes to pseudocode
+Action: job130, ref17, aba115
+Status: Done
+
+9. Attend group coding of US3 to completion on Friday
+Action: All
+Status: Done
+
+
+New Buisness
+=============
+
+Report from Sprint Planning
+--------------------------
+10. Create Test table Document
+Action: nip33
+
+11. US1 - Deck count code and unit tests
+Action: nas97
+
+12. US1 - Deck count test table
+Action: ref17
+
+13. US1 - Deck count design
+Action: ref17
+
+14. US2 - Joker count code and unit tests
+Action: wis40
+
+15. US2 - Joker count test table
+Action: wis40
+
+16. US2 - Joker count design
+Action: ref17
+
+17. US3 - Finish Card deck images
+Action: nip33
+
+18. US3 - Choose card front (code)
+Action: frs30
+
+19. US3 - Choose card front unit tests
+Action: frs30
+
+20. US3 - Test table and design
+Action: nip33
+
+21. US4 - Choose background code and unit tests
+Action: prs49
+
+22. US4 - Choose background test table
+Action: ref17
+Status: done
+
+23. US4 - design
+Action: aba115
+
+24. US5 - Shuffle code and unit tests
+Action: wis40
+
+25. US5 - Shuffle test table 
+Action: frs30 
+
+26. US5 - Shuffle design
+Action: frs30
+
+27. US7 - Reposition card within pack test table 
+Action: nip33
+
+28. US7 - Reposition card within pack design
+Action: nip33
+
+29. US8 - Move card group code and unit tests
+Action: job130
+Status: in progress
+
+30. US8 - Move card group test table
+Action: nas97
+
+31. US8 - Move card group design
+Action: nas97
+
+32. US9 - Flip a card implementation (Code exists)
+Action: aba115
+
+33. US9 - Flip a card unit tests
+Action: prs49
+
+34. US9 - Flip a card design
+Action: prs49
+
+35. US10 - Flip card group testtable
+Action: aba115
+
+36. US10 - Flip card group design
+Action: aba115
+
+37. US11 - Reveal card group implementation
+Action: nip33
+
+38. US11 - Reveal card group code and unit tests
+Action: nip33
+
+39. US11 - Reveal card group test table
+Action: nas97
+
+40. US11 - Reveal card group design
+Action: nas97
+
+41. US12 - Save dealing layout code and unit tests
+Action: nas97 
+
+42. US13 - Deal out cards from layout code and unit tests
+Action: prs49
+
+---- (nice to have tasks)
+
+43. US14 - Rotating cards code and unit tests
+Action: wis40
+
+44. US15 - Recording a game code and unit tests
+Action: nas97
+
+45. US16 - Replaying games code and unit tests
+Action: prs49
+
+46. US18 - Sound effects code and unit tests
+Action: job130
+
+Other Matters
+--------------
+47. Review ATP2 feedback
+Action: All
+
+48. Review blogs and issue boards on gitlab
+Action: frs30
+
+49. This sprint's spike work will be on image loading and handling 
+Action: aba115 and ref17
+
+AOB
+---
+NONE
+
+
+

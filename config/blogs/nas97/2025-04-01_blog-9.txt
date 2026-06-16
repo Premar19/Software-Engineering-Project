@@ -1,0 +1,28 @@
+Author: nas97
+Sprint: 9(01/04/2025)
+
+Assigned actions
+=================
+
+Action 1: Update Design Doc
+
+Updated the design document to conform to the provided template and fix the formatting throughout, along with noting incomplete or incorrect sections
+
+Hours: 5
+
+Action 2: Update US6/8 for ATP3 Feedback
+
+I updated US6 and 8 to be more intuitive and responsive after ATP3 feedback
+
+Hours: 2
+
+Action 3: Update US15
+
+I updated US15 to save the table starting state, and provide an ID for cards/decks to differentiate ones with the same values
+
+Hours: 2
+
+Other project work
+==================
+
+Total Hours: 9

@@ -1,0 +1,423 @@
+\documentclass[a4paper]{report}
+
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{parskip}
+\usepackage{geometry}
+\usepackage[linesnumbered, ruled]{algorithm2e}
+\usepackage{array}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{amsmath}
+\usepackage{caption}
+\usepackage{varioref}
+\usepackage[hidelinks]{hyperref}
+\usepackage{cleveref}
+
+% Preamble
+
+% Numbering on subsubsections
+\setcounter{secnumdepth}{3}
+
+% Prevent tabular p{} spacing out text
+\newcolumntype{P}[1]{>{\RaggedRight\arraybackslash}p{#1}}
+
+% Comments for pseudocode
+\SetKwComment{tcp}{// }{}
+\newcommand\commentfont[1]{\textcolor{blue}{#1}}
+\SetCommentSty{commentfont}
+
+% Use better font encoding
+\usepackage[T1]{fontenc}
+
+% Shrink the huge default margins around the sides of the document
+\newgeometry{vmargin=1in, hmargin=1in}
+
+% Command to restore margins
+\newcommand\restoremargins{\pagebreak\restoregeometry}
+
+% Chapter author command
+\makeatletter
+\newcommand{\chapterauthor}[1]{%
+	{\parindent0pt\vspace*{-25pt}%
+		\linespread{1.1}\large\scshape#1%
+		\par\nobreak\vspace*{25pt}}
+	\@afterheading%
+}
+
+% Section author command
+\newcommand{\sectionauthor}[1]{%
+	{\parindent0pt\vspace*{0pt}%
+		\linespread{1.1}\large\scshape#1%
+		\par\nobreak\vspace*{10pt}}
+	\@afterheading%
+}
+
+% Extend footnote rule
+\renewcommand\footnoterule{%
+	\kern-3\p@
+	\hrule\@width \textwidth
+	\kern2.6\p@}
+\makeatother
+\makeatother
+
+% Colour definitions
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegrey}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+% Code style definition
+\lstdefinestyle{code}{
+	language=java,
+	tabsize=4,
+	commentstyle=\color{codegreen},
+	backgroundcolor=\color{backcolour},
+	keywordstyle=\color{magenta},
+	numberstyle=\tiny\color{codegrey},
+	stringstyle=\color{codepurple},
+	basicstyle=\ttfamily, 
+	breakatwhitespace=false,
+	breaklines=true,
+	numbers=left,
+	numbersep=5pt,
+	gobble=16,
+	showstringspaces=false,
+	captionpos=t
+}
+\lstset{style=code}
+
+% Code caption formatting
+\renewcommand\lstlistingname{}
+\DeclareCaptionFormat{listing}{\rule{\dimexpr\textwidth\relax}{0.4pt}\vskip1pt#1#2#3}
+\captionsetup[lstlisting]{format=listing,singlelinecheck=false, margin=0pt, font={sf}}
+
+% Make command for blue hrefs
+\newcommand{\link}[2]{\color{blue}\href{#1}{#2}\color{black}}
+
+% Title and author are used by \maketitle on the title page
+\title{Beginner's Guide To Java Unit Tests - Spike Work}
+\author{Group 6}
+
+\begin{document}
+	\maketitle
+	\tableofcontents
+	\newpage
+	
+	\chapter{Introduction}\label{chap:Java Unit Tests}
+	\chapterauthor{Niall Perry}
+
+JUnit is a widely used framework for unit testing in Java. In this guide, I will show how to perform general Java unit tests and then Java unit tests for JavaFx.
+
+\section{General J unit tests}\label{sec:introduction}
+        What is Unit Testing?
+A procedure to validate individual units of the source code
+
+Example: A procedure, method, or class
+
+Validating each individual piece reduces errors when integrating the pieces together later.
+
+A recommendation is to have tests that focus on
+boundaries of allowed data and where erroneous data are handled correctly...
+
+If a method takes data 0.. 10 What should you test?
+Answer: -1, 0, 10, 11
+
+
+	\section{Outline of a Test class and Test methods}\label{chap:Test Class}
+	\title{Test class}
+\begin{lstlisting}
+    
+                        package group.tests;
+                    import org.junit.jupiter.api.Assertions;
+                    import org.junit.jupiter.api.BeforeEach;
+                    import org.junit.jupiter.api.Test;
+                    import group6.*;
+                    
+                    public class AlbumTest {
+                    private Album album;
+                    
+                    @BeforeEach
+                    public void setup(){
+                    album = new Album();
+                    }
+                    
+                    @Test
+                    public void testAddOneSongAndFind() {
+                    // Test code here
+                    }
+                    }
+\end{lstlisting}
+Tests method marked with @Test is run…
+
+@BeforeEach methods are always run before each
+@Test method…
+
+There are also @AfterEach, @BeforeAll, @AfterAll
+
+\label{chap:Test methods}
+\title{Test methods}
+\begin{lstlisting}
+                        @Test
+                    public void testAddOneSongAndFind() { // [1]
+                    
+                    // Set up test fixture
+                    Contact contact = new Contact("Hey Jude", "The Beatles"); // [2]
+                   
+                    // Exercise the program under test [3]
+                    album.add(contact);
+                    Song foundSong = album.search("Hey Jude");
+                   
+                    // Check expected data against data returned [4]
+                    Assertions.assertEquals(song, foundSong,
+                    "Incorrect song found!");
+                    }
+\end{lstlisting}
+Things to note:
+
+[1] Meaningful name
+
+[2] Create the test data: called the test fixture
+
+[3] Do something interesting and get a result
+
+[4] Did we get the right result?
+
+\textbf{Mantra: Arrange, Act, Assert}
+
+\chapter{How to make Tests using Inteli-J} \label{Step 1}
+We will create a JUnit test to check that songs can be added to an album.
+
+\section{Step 1}\label{sec:Step 1}
+\textbf{Create package}
+
+1. Right-click on src
+
+2. Select New
+
+3. Select Package
+
+
+\begin{figure}[H]
+                        \begin{center}
+                        \includegraphics[width=0.67]{Screenshot 2025-03-08 132341.png}
+                        \end{center}
+                        \caption{a visual guide}
+                    \end{figure}
+
+
+\section{Step 2}\label{sec:Step 2}
+\textbf{Create test class}
+
+1. Right click on the tests package
+
+2. Select New
+
+3. Select Class
+
+\begin{figure}[H]
+    \begin{center}
+    \includegraphics[width=0.80]{Screenshot 2025-03-08 134743.png}
+    \end{center}
+    \caption{visual guide}
+\end{figure}
+\newpage
+\section{Step 3}\label{sec:Step 3}
+\textbf{Adding to test class}
+
+1. Write some code
+
+2. Import the JUnit library
+
+\begin{figure}[H]
+    \begin{center}
+    \includegraphics[width=0.8\textwidth]{Screenshot 2025-03-08 144856.png}
+    \end{center}
+    \caption{visual guide}
+\end{figure}
+
+\section{Step 4}\label{sec:Step 4}
+\textbf{Run the test class}
+
+1. run code
+
+\begin{figure}[H]
+    \begin{center}
+file:///C:/Users/pezuk/OneDrive - Aberystwyth University/Year 2/Software engineering/Practice Junit/Junit_tests.aux
+file:///C:/Users/pezuk/OneDrive - Aberystwyth University/Year 2/Software engineering/Practice Junit/Junit_tests.dvi
+file:///C:/Users/pezuk/OneDrive - Aberystwyth University/Year 2/Software engineering/Practice Junit/Junit_tests.log
+file:///C:/Users/pezuk/OneDrive - Aberystwyth University/Year 2/Software engineering/Practice Junit/Junit_tests.out
+file:///C:/Users/pezuk/OneDrive - Aberystwyth University/Year 2/Software engineering/Practice Junit/Junit_tests.synctex.gz
+file:///C:/Users/pezuk/OneDrive - Aberystwyth University/Year 2/Software engineering/Practice Junit/Junit_tests.tex
+file:///C:/Users/pezuk/OneDrive - Aberystwyth University/Year 2/Software engineering/Practice Junit/Junit_tests.toc
+    \includegraphics[width=0.67]{Screenshot 2025-03-08 155244.png}
+    \end{center}
+    \caption{visual guide}
+\end{figure}
+
+Here is the expected output...
+
+\begin{figure}[H]
+    \begin{center}
+    \includegraphics[width=0.50]{Screenshot 2025-03-11 002045.png}
+    \end{center}
+    \caption{Result of action}
+\end{figure}
+\newpage
+\section{Step 5}\label{sec:Step 5}
+\textbf{Add proper test code }
+
+For example:
+
+
+\begin{lstlisting}
+                                 public class Album_test {
+                    
+                        public Album album;
+                    // intialises test
+                        @BeforeEach
+                        void setUp() {
+                        album = new Album("Michael Jackson", 1982, "Thriller");}
+                    
+                    // example of testing contructor
+                        @Test
+                        void testConstructor() {
+                            assertEquals("Thriller", album.getAlbumTitle());
+                            assertEquals("Michael Jackson", album.getArtist());
+                            assertEquals(1982, album.getYear());
+                            assertTrue(album.getTracks().isEmpty(), "Track list should be empty initially");}
+                    
+                    // example of testing track addition
+                        @Test
+                        void testAddTrack() {
+                            album.addTracks("Billie Jean");
+                            album.addTracks("Beat It");
+                            List<String> tracks = album.getTracks();
+                            assertEquals(2, tracks.size());
+                            assertTrue(tracks.contains("Billie Jean"));
+                            assertTrue(tracks.contains("Beat It"));
+                        }
+                    }
+    
+\end{lstlisting}
+*** This can only be done if the method tested exists.
+
+\section{Step 6}\label{sec:Step 6}
+\textbf{finally}
+
+1. compile the code
+
+\begin{figure}[H]
+    \begin{center}
+    \includegraphics[width=0.5]{Screenshot 2025-03-11 031534.png}
+    \end{center}
+    \caption{the result}
+\end{figure}
+
+\chapter{Java FX - J Unit tests}\label{sec: Java FX J unit tests}
+
+\section{Best practices} \label{sec: Best practices}
+\textbf{1. Use TestFX for UI Interactions}
+
+\begin{lstlisting}
+                import org.testfx.api.FxRobot;
+                
+                class MainAppTest extends ApplicationTest {
+                
+                    private Button button;
+                
+                    @Override
+                    public void start(Stage stage) {
+                        button = new Button("Click Me");
+                        button.setOnAction(event -> button.setText("Clicked!"));
+                
+                        stage.setScene(new javafx.scene.Scene(new javafx.scene.layout.StackPane(button), 300, 200));
+                        stage.show();
+                    }
+                
+                    @Test
+                    void testButtonClick(FxRobot robot) {
+                        assertEquals("Click Me", button.getText()); // Verify initial state
+                
+                        robot.clickOn(button); // Simulate a click
+                
+                        assertEquals("Clicked!", button.getText()); // Verify updated text
+                    }
+                }
+\end{lstlisting}
+
+JavaFX involves UI components that require a JavaFX thread to function correctly. TestFX provides utilities to interact with JavaFX elements.
+
+For example, using FxRobot
+\newpage
+
+\textbf{2. Always Run JavaFX Tests on the JavaFX Thread}
+\begin{lstlisting}
+                    import javafx.application.Platform;
+                import org.junit.jupiter.api.Test;
+                import static org.junit.jupiter.api.Assertions.*;
+                
+                class JavaFXThreadTest {
+                
+                    @Test
+                    void testFXThreadExecution() {
+                        Platform.runLater(() -> {
+                            System.out.println("Running on JavaFX Thread!");
+                            assertTrue(Platform.isFxApplicationThread());
+                        });
+                    }
+                }
+\end{lstlisting}
+
+\textbf{3. Use @Start for Stage Initialization}
+
+Instead of setting up the UI in @BeforeEach, use @Start in TestFX.
+
+@Start automatically launches a JavaFX stage, avoiding manual setup.
+
+The start(Stage stage) method ensures UI elements are created properly.
+
+\begin{lstlisting}
+                 public void start(Stage stage) {
+                        button = new Button("Click Me");
+                        button.setOnAction(event -> button.setText("Clicked!"));
+                
+                        stage.setScene(new javafx.scene.Scene(new javafx.scene.layout.StackPane(button), 300, 200));
+                        stage.show();
+\end{lstlisting}
+
+\textbf{4. Use Timeouts for Asynchronous UI Operations}
+
+Some JavaFX operations run asynchronously (e.g., animations, background tasks). To avoid flaky tests, use TestFX’s wait conditions.
+
+\begin{lstlisting}
+                import org.testfx.util.WaitForAsyncUtils;
+                import java.util.concurrent.TimeUnit;
+            
+                WaitForAsyncUtils.sleep(1, TimeUnit.SECONDS); // Wait before checking
+                assertEquals("Clicked!", button.getText());
+\end{lstlisting}
+
+\textbf{5. Use lookup() for Selecting UI Elements}
+
+\begin{lstlisting}
+                    @Test
+                    void testButtonClick(FxRobot robot) {
+                    robot.clickOn(".button"); // Find button by CSS class
+                    assertThat(lookup(".button").queryButton()).hasText("Clicked!");
+                }
+\end{lstlisting}
+
+\textbf{6. Use Assertions for UI Elements}
+
+Use TestFX Assertions to validate UI state.
+
+\begin{lstlisting}
+                import static org.testfx.assertions.api.Assertions.assertThat;
+            
+                assertThat(button).hasText("Clicked!");
+                assertThat(label).isVisible();
+                assertThat(textField).hasText("Hello World");
+\end{lstlisting}    
+
+\end{document}

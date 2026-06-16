@@ -1,0 +1,36 @@
+Author: prs49
+Sprint: 5(04/3/25)
+
+Assigned actions
+=================
+
+Action 1 (28-2-2025): Group scrum regarding pseudocode
+
+Decided on and assigned user stories to group members to be complete pseudocode and implementation of first few user stories.
+
+Hours: 1
+
+Action 2 (2-3-2025): Pseudocode for US13 and US16
+
+Took my time to read the User stories and plan the implementation then write the pseudocode
+
+Hours: 2
+
+Action 3 (4-3-2025): Sprint Reveiw meeting 
+
+Further discussion about work completed on pseudocode and implementation of user stories
+
+Hours: 1
+
+Action 4 (3-3-2025): Implementation of user story 2 and notes on user story 4
+
+Hours: 2
+
+
+Other project work
+==================
+NONE
+
+Hours: 0
+
+Total hours: 6

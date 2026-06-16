@@ -1,0 +1,27 @@
+Author: Wis40
+Sprint: 1(4/2/25)
+
+Assigned actions
+=================
+
+Action 1 (2-2-2025): Read all QA documents 
+
+Read all SE.QA Documents avaliable via Blackboard
+
+Hours: 2
+
+Action 2 (4-2-2025): Prepare a presentation for SE.QA.6 - Testing Procedures
+
+Prepare a presentation on the testing procedures outlined in SE.QA.6 into summarised form and present to scrum members during sprint meeting
+
+Hours: 1
+
+Other project work
+==================
+NONE
+
+Hours: 0
+
+Total hours: 3
+
+

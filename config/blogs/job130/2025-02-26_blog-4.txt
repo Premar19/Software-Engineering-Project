@@ -1,0 +1,20 @@
+Author: J0B130
+Sprint: 4
+(19/02/25)
+
+Assigned actions
+=================
+
+Action 1: Spike Work
+Researched how to implement collecting a photo from a user and storing it as a variable.
+
+Hours: 3
+
+Other project work
+==================
+
+Meeting on friday to narrow down parts of the prototype design.
+
+Hours: 1
+
+Total hours: 4

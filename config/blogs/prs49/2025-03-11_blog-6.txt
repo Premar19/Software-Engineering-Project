@@ -1,0 +1,34 @@
+Author: prs49
+Sprint: 6(11/03/25)
+
+Assigned actions
+=================
+
+Action 1: Meeting 
+
+Decided on how the coding aspect of the project will work and distributed the work accordingly also planning how testing will be done for a developers code
+
+Hours: 1
+
+Action 2: US4 Define the table Background
+
+Defined the table background in code allowing the user to choose an image for the table or set the default one. Also worked upon making junit tests to check the working of all its components
+
+Hours: 3
+
+Action 3: Review meeting 
+
+Looked over work done in the sprint and looked opon what needs to be done for the next sprint
+
+Hours: 1
+
+Other project work
+==================
+
+Action 4: Understanding Implementation
+
+Spent some time to understand the code written by the scrum members so I can develop my part in accordance and not deviate from the logic that is being followed.
+
+Hours: 2
+
+Total hours: 7

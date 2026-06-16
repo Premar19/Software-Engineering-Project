@@ -1,0 +1,37 @@
+Author: nas97
+Sprint: 3(18/02/2025)
+
+Assigned actions
+=================
+
+Action 1: More Digital Designs
+
+I created more digital designs for various UI screens, menus, and possible actions, and redid all existing ones to include the background and card assets.
+
+Hours: 4
+
+Action 2: DS.1.15 UI Prototype and corrections to DS.1.8 UI Prototype
+
+I created a PowerPoint for the DS.1.15 UI prototype displaying how a game recording would be started and finished, and fixed several formatting issues for the DS.1.8 UI prototype and corrected the content of several slides.
+
+Hours: 2
+
+Action 3: Creating the planning spreadsheet
+
+I created the planning spreadsheet with all required columns, filled in all existing data, and added formulas to give a running total for total hours for each member.
+
+Hours: 1
+
+Action 4: Finalising UI prototype
+
+I went through every slide in the UI prototype powerpoint to ensure they all seemed good, covered the necessary content and used correct images, including creating new slides and replacing or creating images where necessary.
+
+Hours: 2
+
+Other project work
+==================
+We held a meeting to go over DS.1.1 - DS.1.9 and create a design for the settings menu required for DS.1.12, DS.1.15, DS.1.17 and DS.1.18.
+
+Hours: 1
+
+Total hours: 10

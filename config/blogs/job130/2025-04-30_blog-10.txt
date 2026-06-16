@@ -1,0 +1,25 @@
+Author: J0B130
+Sprint: 9
+(25/04/04)
+
+Assigned actions
+=================
+
+Work on US18
+
+Hours: 4
+
+JavaDoc existing code I have written
+
+Hours: 2 
+Other project work
+==================
+Friday meeting
+
+Hours: 2
+
+Sunday meeting 
+
+Hours: 1 
+
+Total hours: 9

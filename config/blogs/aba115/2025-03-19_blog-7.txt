@@ -1,0 +1,22 @@
+Author: ABA115
+Sprint: 7 (18/03/25)
+
+
+Assigned actions
+===============================================================
+Action 1: Sequence Diagram for US10 and US4
+I planned the way in which the user selects the amount of jokers and explained how the dropdown works as well as visual representation of the jokers. Made a powerpoint and presented it to my team.
+Hour: 2 hours
+===============================================================
+Action 2: Table testing for US 10
+Finished test table for us12 and will complete 2 more user story testing and upload it to the shared document.
+Hours:1
+
+
+Other project work
+===================================================================
+We held a meeting about the tasks left to do and the progress. The outcome of this meeting ensured everyone knows their next task and tries to make a better effort of completing their work.
+Hours:1
+
+
+Total hours: 4

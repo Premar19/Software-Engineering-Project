@@ -1,0 +1,22 @@
+Author: REF17
+Sprint: 4 (25/02/25)
+Assigned actions
+=================
+Action 1: DS1 corrections
+After receiving feedback from the scrum coach, I dealt with the issues raised on our prototype document. This included adding slides to account for more edge cases, labelling card number within a stack and making file loading slides uniform by sticking to the windows extension ect.
+Hours: 4
+
+Action 2: Layout design document (DS2)
+I put together all the work we have done into a document along with creating the class to user story table. I formatted the document to align with the standards. 
+Hours: 1
+
+Other project work
+==================
+We held a meeting to discuss the classes needed by each user story and touched on grouping them into packages. We went through each story one by one and related it to classes, adding and expanding as needed. We planned this out together as a group, so we didn’t create unnecessary classes or remake classes someone else might’ve designed as most user stories’ classes overlapped.
+Hours:1
+
+SPW: For spike work this week I roughly planned out US5 in pseudocode. This was mostly to remind myself the way to approach pseudocode and to practice it rather than the actual result of it. I reorganised my layout a few times till I was happy with the flow of it. 
+Hours: 2
+
+Total hours: 8
+

@@ -1,0 +1,32 @@
+Author: Wis40
+Sprint: 4(25/2/25)
+
+Assigned actions
+=================
+
+Action 2 (21-2-2025): Group scrum regarding Achitectural design document
+
+Outlining General Program Architecture and classes, divided up document into sections to be done during sprint
+
+Hours: 1
+
+Action 2 (25-2-2025): System Diagram
+
+Created the diagam showing the high level function of the overall system to be created over the cource of the project
+
+Hours: 2
+
+Action 3 (25-2-2025): Sprint Reveiw meeting 
+
+Further discussion about work complted on architectural design document during previous sprint
+
+Hours: 1
+
+Other project work
+==================
+NONE
+
+Hours: 0
+
+Total hours: 3
+

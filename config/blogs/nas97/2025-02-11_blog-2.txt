@@ -1,0 +1,31 @@
+Author: nas97
+Sprint: 2(11/02/2025)
+
+Assigned actions
+=================
+
+Action 1: Read all QA documents
+
+Read through all SE-QA documents from 1 to 10.
+
+Hours: 3
+
+Action 2: Create UI prototype for DS.1.8
+
+I planned out how a user would move multiple cards across the table, and met with the group to ensure our ideas all lined up for a consistent UI. I then went on to create digital mockups of each UI screen and shared them with the group.
+
+Hours: 4
+
+Action 3: Create a PowerPoint on the prototype
+
+I then created a PowerPoint displaying the various actions and situations involved in moving multiple cards around the table, using the UI images I created before.
+
+Hours: 2
+
+Other project work
+==================
+We held a meeting about the different UI screens to ensure everyone was on the same page and did not have conflicting ideas for the UI.
+
+Hours: 9
+
+Total hours: 9

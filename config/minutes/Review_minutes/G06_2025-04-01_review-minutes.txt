@@ -1,0 +1,119 @@
+Project: Deck of Cards
+Meeting: Weekly Review Meeting
+Persons present: All project members except Abdullah Al-Samarrai and Billy Edwards
+Place and date of meeting: Room 6, Tuesday 1st April 2025
+Author: Niall Perry
+Version: 1.0
+Circulation list:
+- frs30: Francy Sasso (Deputy QA Manager)
+- job130: Joe Ball
+- nas97: Natalia Spence (Team Leader)
+- nip33: Niall Perry (QA Manager)
+- prs49: Prem Sharma
+- ref17: Reema Fraser (Deputy Team Leader)
+- wis40: William Shipp
+- aba115: Abdullah Al-Samarrai
+
+Stories covered by review and their review status
+================================================
+US3 : Done
+US4 : Rolled Over
+US11: Done
+
+Story US4: Software verification checklists
+===========================================================
+See Appendix D of SE.QS.07 and SE.QS.09
+
+US3 Define the number of decks on the table and display those decks
+---------------------------------------------------------------------
+1. Does the code unit definition match the one given in the Design Specification (test code is not covered
+by this)?
+Yes.
+
+2. Does the code achieve what is specified in the Design Specification (test code is not covered by this)?
+Yes.
+
+3. Does the code unit header meet the Coding Standards SE.QA.09 [6]?
+Yes.
+
+4. Are there appropriate comments to document the code unit, as defined in the coding standards?
+Yes.
+
+5. Are there sufficient other comments to guide the maintainer?
+Yes.
+
+6. Are all variables initialised before their values are used?
+Yes.
+
+7. Have all constants been named?
+Yes.
+
+8. Is each loop certain to terminate?
+Yes.
+
+9. Are upper and lower bounds of arrays sensible?
+Yes.
+
+US4 Define the number of decks on the table and display those decks
+---------------------------------------------------------------------
+1. Does the code unit definition match the one given in the Design Specification (test code is not covered
+by this)?
+Yes.
+
+2. Does the code achieve what is specified in the Design Specification (test code is not covered by this)?
+No.
+
+3. Does the code unit header meet the Coding Standards SE.QA.09 [6]?
+No.
+
+4. Are there appropriate comments to document the code unit, as defined in the coding standards?
+No.
+
+5. Are there sufficient other comments to guide the maintainer?
+Yes.
+
+6. Are all variables initialised before their values are used?
+Yes.
+
+7. Have all constants been named?
+Yes.
+
+8. Is each loop certain to terminate?
+Yes.
+
+9. Are upper and lower bounds of arrays sensible?
+Yes.
+
+US11 Define the number of decks on the table and display those decks
+---------------------------------------------------------------------
+1. Does the code unit definition match the one given in the Design Specification (test code is not covered
+by this)?
+Yes.
+
+2. Does the code achieve what is specified in the Design Specification (test code is not covered by this)?
+Yes.
+
+3. Does the code unit header meet the Coding Standards SE.QA.09 [6]?
+Yes.
+
+4. Are there appropriate comments to document the code unit, as defined in the coding standards?
+Yes.
+
+5. Are there sufficient other comments to guide the maintainer?
+Yes.
+
+6. Are all variables initialised before their values are used?
+Yes.
+
+7. Have all constants been named?
+Yes.
+
+8. Is each loop certain to terminate?
+Yes.
+
+9. Are upper and lower bounds of arrays sensible?
+Yes.
+
+
+
+

@@ -1,0 +1,47 @@
+Author: REF17
+Sprint:5 (18/03/25)
+Assigned actions
+=================
+Action 1: Testing table for US1
+I created a testing table for US1 to test the number of decks on the table and display those decks.
+Hours: 1
+
+Action 2: Testing table for US2
+I created a testing table for US2 to test the number of Jokers allowed in each card deck.
+Hours: 1
+
+Action 3: Testing table for US3
+I created a testing table for US3 to test the images to be used for the card.
+Hours: 1
+
+Action 4: Testing table for US4
+I created a testing table for US4 to test the image used for the table background.
+Hours: 1
+
+Action 5: Sequence diagram for US1
+I created a sequence diagram for US1 illustrate the number of decks on the table and display those decks.
+Hours: 1
+
+Action 5: Sequence diagram for US2
+I created a sequence diagram for US2 illustrate the number of Jokers allowed in each card deck.
+Hours: 1
+
+Action 7: Sequence diagram for US3
+I created a sequence diagram for US3 illustrate the images to be used for the card.
+Hours: 1
+
+Action 8: Sequence diagram for US4
+I created a sequence diagram for US4 illustrate the image used for the table background.
+Hours: 1
+
+
+Other project work
+==================
+Action 2: Review meetings
+We checked over stories that needed to be rolled over and confirmed work that has been completed and put it into the done section. 
+Hour: 1
+
+
+Total hours: 9
+
+

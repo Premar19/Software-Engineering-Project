@@ -1,0 +1,32 @@
+Author: nip33
+Sprint: 1(04/02/25)
+
+Assigned actions
+=================
+
+Action 1: Read all QA documents
+
+Read through all SE-QA documents from 1 to 10.
+
+Hours: 2
+---
+Action 2: Prepare a PowerPoint presentation for SE.QA.4 (UI Prototype Standards)
+
+Summarised the SE.QA.4 document; organised and arranged the content to create a PowerPoint to be clearly explained and presented to others in my group.
+
+Hours: 2
+---
+Action 3: Watched the UI Prototype video
+
+Created notes that summarised the Prototype video for use in creation of PowerPoint UI Prototype.
+
+Hours: 0.5
+
+Other project work
+==================
+NONE
+
+Hours: 0
+--------------------------------------- 
+Total hours: 4.5
+

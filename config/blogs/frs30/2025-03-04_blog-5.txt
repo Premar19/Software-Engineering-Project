@@ -1,0 +1,22 @@
+Author: Frs30
+Sprint: 5(04/03/25)
+
+Assigned actions
+=================
+
+Action 1: DS.2.4.1 Complete pseudocode for user stories 9, 10 and 11
+
+Took my previous design and simplified it so that it could be the correct level of abstractness where the outline of the plan unified all three user stories nicely.
+
+Hours: 3
+
+Other project work
+==================
+
+Action 2: Review meeting and meeting minutes
+
+Took care of the review minutes at the last review meeting, ensuring that format, attendence and content of the document was as it should be and remained in alignment with the ones before it.
+
+Hours: 2
+
+Total hours: 5

@@ -1,0 +1,31 @@
+Author: prs49
+Sprint: 2(12/02/25)
+
+Assigned actions
+=================
+Monday, Tuesday - 
+Action 1: Prepare a PowerPoint presentation for DS.1.6
+
+Using the UI prototype standards, created powerpoint slides showinng the blueprint of the user story assigned.
+
+Hours: 2
+---
+Thursday, Friday - 
+
+Action 2: Read the user stories again to make sure the ideas that were come up with correspond to the requirements given in the user stories.
+
+Hours: 2
+
+Other project work
+==================
+Friday, Saturday and Sunday -
+
+Action 4 : Learnt working of javafx
+
+Learnt the working of javafx and understood it then also tried to work out how the user stories can be implemented in javafx so it is more clear in later weeks
+
+
+Hours: 3
+
+--------------------------------------- 
+Total hours: 7

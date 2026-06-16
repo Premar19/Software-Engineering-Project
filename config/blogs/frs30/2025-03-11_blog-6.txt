@@ -1,0 +1,28 @@
+Author: Frs30
+Sprint: 6(11/03/25)
+
+Assigned actions
+=================
+
+Action 1: DS2 Feedback- issue and storyBoard structure adjustments
+
+Lookedd through and implemented the needed changes to the gitlab issue board, including correct labelling, ordering and splitting up os tasks.
+
+Hours: 3
+
+Action 2: US6.2 sequence diagram & test table
+
+Developed a test table for user story 6, and a sequence diagram for the objects used in the interactions.
+
+Hours: 3
+
+Other project work
+==================
+
+Action 3: Review meeting minutes and noting what type of things will need to be adjusted
+
+Reviewed some of the the previous sprint review minutes and. noted the type of things thta need to be changed or added to the text files for the past ones.
+
+Hours: 2
+
+Total hours: 8

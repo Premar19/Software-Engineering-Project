@@ -1,0 +1,28 @@
+Author: Frs30
+Sprint: 4(25/02/25)
+
+Assigned actions
+=================
+
+Action 1: DS.2.4.1 Starting pseudocode
+
+Started thinking and planing out some of the basic data structures and outlining the pseudocode for US 9 and 10, regarding flipping a single card and a group of cards
+
+Hours: 5
+
+Other project work
+==================
+
+Action 2: GitLab issues
+
+Quickly edited the GitLab's issue board as to add the needed issues for the Architectual design and the started spike work sotries; also double checking that the issues are all where thye need to be and that everyone who in the sprint review said they had finished, truly had.
+
+Hours: 1
+
+Action 3: Group meeting
+
+Attended and helped lead the group meeting on friday the 21st regarding further action we would take during the sprint, and laying out the US to class table needed for the static description of the architecture.
+
+Hour: 1 
+
+Total hours: 7

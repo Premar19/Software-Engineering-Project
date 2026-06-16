@@ -1,0 +1,35 @@
+Author: Wis40
+Sprint: 6(11/03/25)
+Assigned actions
+=================
+Action 1 (09-03-2025): US-1 Pseudocode
+
+Created the pseudocode for US-2 for the architectural design document
+
+Hours: 1
+
+Action 2 (09-03-2025): US-2 Pseudocode
+
+Created the pseudocode for US-2 for the architectural design document
+
+Hours: 1
+
+Action 3 (9-03-2025): Implementation of US-14 
+Implemented the functionality for US-14 (Rotating Cards/Decks) into the program
+
+Hours: 6
+
+Action 4 (11-03-2025): Sprint Reveiw meeting 
+Further discussion about work complted on architectural design document during previous sprint
+
+Hours: 1
+
+Other project work
+
+==================
+
+NONE
+
+Hours: 0
+
+Total hours: 9

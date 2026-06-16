@@ -1,0 +1,24 @@
+Author: nip33
+Sprint: 7(19/03/25)
+
+Assigned actions
+=================
+Tuesday -
+
+Action 1: Test table for US11
+
+added system tests to the test table document for later testing
+
+Hours: 1
+
+
+Other project work
+==================
+Monday - 
+
+Action 2: Finish the Design of 54 cards for game design
+
+Hours: 4
+
+--------------------------------------- 
+Total hours: 5

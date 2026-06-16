@@ -1,0 +1,58 @@
+Project: Deck of Cards
+Meeting: Weekly Sprint plan
+Persons present: All project members present
+Place and date of meeting: 0.21 Cledwyn Building, Wednesday 12th February 2025
+Author: Niall Perry
+Version: 1.0
+Circulation list:
+- aba115: Abdullah Al-Samarrai
+- bie2: Billy Edwards
+- frs30: Francy Sasso (Deputy QA Manager)
+- job130: Joe Ball
+- nas97: Natalia Spence (Team Leader)
+- nip33: Niall Perry (QA Manager)
+- prs49: Prem Sharma
+- ref17: Reema Fraser (Deputy Team Leader)
+- wis40: William Shipp
+- mua19: Muhammad Aslam (Scrum Coach)
+
+Matters arising from previous meetings
+======================================
+1. DS.1.1: define_Numbers_Prototype 
+Action: bie2
+Status: Done
+
+2. DS.1.13-deal_layout
+Action: bie2
+Status: Done
+
+New Business
+============
+
+Report from Sprint Planning
+--------------------------
+3. Change the Titles of the Prototype Slides
+Action: frs30
+Status: Done
+
+4. Decided US4: Define background was valued at a 3 in planing poker terms 
+
+5. Decided US5: Randomly shuffling Cards was valued at a 5 in planning poker terms
+
+6. Reread QA.06-09 for Discussion
+Action: All
+
+7. Book a meeting for Friday to later discus on how we will create package and system diagrams
+
+Retrospective 
+------------
+8. Using results obtained from the Team Questionaire, we can conclude that everyone feels comfortable to ask for help when needed; Team Leaders and QA Managers efforts are being praised.
+A weakness is that not everyone feels like there is equal commitment within the team. However that problem seems to be resolved as of the end of the sprint plan.
+
+Other matters
+------------
+NONE
+
+AOB
+------
+NONE

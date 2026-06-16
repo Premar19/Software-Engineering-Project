@@ -1,0 +1,130 @@
+Project: Deck of Cards
+Meeting: Weekly Sprint plan
+Persons present: All project members present except Billy Edwards
+Place and date of meeting: 0.21 Cledwyn Building, Wednesday 5th march 2025
+Author: Niall Perry
+Version: 1.0
+Circulation list:
+- aba115: Abdullah Al-Samarrai
+- frs30: Francy Sasso (Deputy QA Manager)
+- job130: Joe Ball
+- nas97: Natalia Spence (Team Leader)
+- nip33: Niall Perry (QA Manager)
+- prs49: Prem Sharma
+- ref17: Reema Fraser (Deputy Team Leader)
+- wis40: William Shipp
+- mua19: Muhammad Aslam (Scrum Coach)
+
+Matters arising from previous meetings
+======================================
+1. Book a meeting for Friday to later discus on how we will implement Title Screen
+Action: nip33
+Status: Done
+
+2. Add the import photo function to UI Protoype
+Action: nip33
+Status: Rolled over
+
+3. Add blogs to Devs doc
+Action: bie3
+Status: Done (only one)
+
+4. Finish System diagram 
+Action: wis40
+Status: Done
+
+5. Classes for objects on table
+Action: nas97
+Status: Done
+
+6. Spike work for Sound
+Action: job130
+Status: Rolled over
+
+7. Spike word for Junit test
+Action: nip33
+Status: Rolled over
+
+8. Start DS2 document
+Action: ref17
+Status: Done
+
+9. Pseudo code for US12 and US15
+Action: nas97
+Status: Done
+
+10. Pseudo code for US13 and US16
+Action: prs49
+Status: Done
+
+11. Pseudo code for US3 and US14
+Action: nip33
+Status: Done
+
+12. Pseudo code for US4 and US18
+Action: job130
+Status: Rolled over
+
+13. Pseudo code for US7 and US17
+Action: wis40
+Status: Done
+
+14. Pseudo code for US9, US10 and US11
+Action: frs30
+Status: Done
+
+15. Pseudo code for US5 and US8
+Action: ref17
+Status: Done
+
+16. Pseudo code for US1 and US2
+Action: bie2
+Status: Rolled over
+
+17. Pseudo code for US6 and US8
+Action: aba115
+Status: Rolled over
+
+18. Move Spike work documents to Dev folder on gitlab
+Action: nas97
+Status: Done
+
+New Buisness
+=============
+
+Report from Sprint Planning
+--------------------------
+
+19. Add final elements (Appendix E & D) to design document
+Action: nip33
+
+20. Update package diagram with description
+Action: wis40
+
+21. Make all card types for program
+Action: nip33
+
+22. Do Billy's pseudo code US1 & US2
+Action: wis40
+
+23. Make changes to pseudocode
+Action: job130, ref17, aba115
+
+24. Upload Spike work by Friday
+Action: nip33, job130
+
+25. Attend group coding of US3 to completion on Friday
+Action: All
+
+
+Retrospective 
+------------
+Become better at communitcating and make more effort to carry out daily scrums.
+
+Other matters
+----------------
+26. Billy is on a Red card and Muhammad will send an email to sort out outcome
+
+AOB
+------
+NONE

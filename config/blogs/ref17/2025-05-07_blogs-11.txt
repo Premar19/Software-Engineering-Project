@@ -1,0 +1,33 @@
+Author: REF17
+Sprint: 11(07/05/25)
+Assigned actions
+=================
+
+Action 1: Wrote per review on Project Leader
+This included talking to all other members for input and combining it into a concise paragraph
+Hours: 2
+
+Action 2: Changed the testing table 
+I corrected some issues with the testing tables so it conformed with the specification
+Hours: 1
+
+Action 3: Created DS2 document history table
+I went through all changes made to the DS2 document and put them into a table
+Hours: 3
+
+Action 4: Helped project lead with final report
+This included writing the summary for 3 weeks and helping word / write reviews on peers. 
+Hours: 5
+
+=================
+
+Other project work
+Action 5: catch up meeting
+We held 3 meetings to distribute remaining areas of work and see where members where up to in their work
+Hours: 4
+
+Total hours: 15
+
+
+
+

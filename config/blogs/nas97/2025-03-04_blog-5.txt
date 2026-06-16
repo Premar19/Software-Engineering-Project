@@ -1,0 +1,47 @@
+Author: nas97
+Sprint: 5(04/03/2025)
+
+Assigned actions
+=================
+
+Action 1: Package Diagram
+
+I created an initial package diagram with placeholder names based off the results of our meeting, and updated it later once we realised one of our classes was unnecessary.
+I also wrote some text explaining the decisions made there for the design document.
+
+Hours: 1
+
+Action 2: Design Classes for Cards and Decks
+
+Since we figured out a general idea for this in our group meeting, I created a draft class diagram for these classes
+
+Hours: 1
+
+Action 3: Pseudocode for US12 and US15
+
+I designed algorithms and created pseudocode for the process of recording dealing layouts and full games.
+
+Hours: 2
+
+Action 4: Initial Project Setup
+
+I created an initial blank but working JavaFX project with all of our classes, and implemented the starts of US1 and US3.
+
+Hours: 1
+
+Other project work
+==================
+We held a meeting to see how we were progessing with pseudocode, figure out how the codebase would work, and implement the very start of the project - the title screen
+and play button.
+
+Hours: 1
+
+Spike Work: JavaFX
+
+I did some more in depth research into JavaFX, adding to the same pdf as last week. This time, I wrote explanations for each type of animation in JavaFX, added sections
+on installing JavaFX and displaying text on a pane, and began an extremely in depth example of a full JavaFX system for a game of draughts to show how a JavaFX program
+could work and come together.
+
+Hours: 4
+
+Total Hours: 10

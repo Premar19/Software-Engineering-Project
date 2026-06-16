@@ -1,0 +1,15 @@
+Author: REF17
+Sprint: 1 (04/02/25)
+Assigned actions
+=================
+Action 1: read through all SE-QA documents from 1 to 10.
+Hour: 3 hours
+
+Action 2: Prepare presentation - document 7
+Hours: 1
+
+Other project work
+==================
+None
+
+Total hours: 4

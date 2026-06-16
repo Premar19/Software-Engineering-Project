@@ -1,0 +1,32 @@
+Author: REF17
+Sprint:8(25/03/25)
+Assigned actions
+=================
+Action 1: US13.4 design diagram
+I created a sequence diagram for US13 – dealing out cards to a saved layout. This was hard as I had to make layered conditionals.
+Hours: 2
+
+Action 2: US13.2 system tests
+I created the testing table for US13.
+Hours: 1
+
+Action 3: US3 implementation 
+I programmed the code for card’s images to display in game, accounting for when they are flipped.
+This took a while to code because I had to familiarise myself with the current code and functions already made. Since I was picking up the implementation from halfway being completed, I ended up repeating functions that I later found were already coded. I also ended up rewriting it to compact and flow better. I revisited this to account for the user having already uploaded an image.
+Hours: 4
+
+Other project work
+==================
+Action 4: Review meetings
+We checked over stories that needed to be rolled over and confirmed work that has been completed and put it into the done section. 
+Hour: 1
+
+Action 5: Catchup meeting
+We held a meeting for a mid-way sprint, this included assigning more stories based on how much was able to be completed to that point. It also included time to discuss for help and opinions.
+Hours:1
+
+
+Total hours: 9
+
+
+

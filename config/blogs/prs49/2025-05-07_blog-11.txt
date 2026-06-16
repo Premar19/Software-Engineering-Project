@@ -1,0 +1,29 @@
+Author: prs49
+Sprint: 11(07/05/25)
+Assigned actions
+=================
+
+Action 1: US18 Pseudocode
+I fixed the pseudocode for another scrum member
+Hours: 0.5
+
+Action 2: Class Descriptions
+I created descriptons for multiple classes and their functions.
+Hours: 4
+
+Action 3: Review documents
+I reviewed all documentation just to look for any missing elements or incorrect formatting so they can be fixed
+Hours: 1
+
+=================
+
+Other project work
+Action 5: catch up meeting
+We held 3 meetings to distribute remaining areas of work and see where members where up to in their work
+Hours: 4
+
+Total hours: 9.5
+
+
+
+

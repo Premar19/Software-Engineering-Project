@@ -1,0 +1,25 @@
+Author: prs49
+Sprint: 1(04/02/25)
+
+Assigned actions
+=================
+
+Action 1: Read all QA documents
+
+Read through all SE-QA documents from 1 to 10.
+
+Hours: 3
+
+Action 2: Prepare a presentation for SE.QA.3 (PM standards)
+
+Summarised the whole of the SE.QA.3 document; organised and arranged the content in a few slides in a way which could briefly and clearly explain the contents of the document.
+
+Hours: 2
+
+Other project work
+==================
+NONE
+
+Hours: 0
+
+Total hours: 5

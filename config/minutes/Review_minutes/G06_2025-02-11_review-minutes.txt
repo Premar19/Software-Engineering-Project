@@ -1,0 +1,67 @@
+Project: Deck of Cards
+Meeting: Weekly Sprint review
+Persons present: All project members except Billy Edwards (illness)
+Place and date of meeting: Library Room 8, Tuesday 11th February 2025
+Author: Niall Perry
+Version: 1.0
+Circulation list:
+- aba115: Abdullah Al-Samarrai
+- frs30: Francy Sasso (Deputy QA Manager)
+- job130: Joe Ball
+- nas97: Natalia Spence (Team Leader)
+- nip33: Niall Perry (QA Manager)
+- prs49: Prem Sharma
+- ref17: Reema Fraser (Deputy Team Leader)
+- wis40: William Shipp
+
+Stories covered by review and their review status
+==================================================
+DS.1 : Rolled over
+
+1. Was DS.1.1: define_Numbers_Prototype done to a good standard/completed?
+No
+
+2. Was DS.1.2: define_Jokers_Prototype done to a good standard/completed?
+No
+
+3. Was DS.1.3: define_images_Prototype done to a good standard/completed?
+No
+
+4. Was DS.1.4: define_Table_Prototype done to a good standard/completed?
+No
+
+5. Was DS.1.5: random_Shuffle_Prototype done to a good standard/completed?
+No
+
+6. Was DS.1.6: control_Cards_Prototype done to a good standard/completed?
+No
+
+7. DS.1.7: reposition_Cards_Prototype done to a good standard/completed?
+No
+
+8. DS.1.8: shortcut_Input_ Prototype done to a good standard/completed?
+No
+
+9. DS.1.9: flip_Cards_ Prototype done to a good standard/completed?
+No
+
+Other matters
+------------
+15. There will be a starting screen page with: [title, newgame, replay, quit]
+
+16. There will be a screen page for the game setup with: [deck amount, joker amount, choosing table, back of cards]
+
+17. There will be a screen page for card design where: [symbols fill for select, when card is clicked -> design is changed]
+
+18. For the mouse; left click for selecting cards and right click for putting card into action (click again to unselect)
+
+19. Decieded that the possible deck pop-up actions will be: [shuffle, move top card, flip]
+
+20. Decided that the possible card pop-up actions will be: [flip, rotate(using scroll)]
+
+21. Menu will be on the top right of screen for things like: [general settings, sound, start recording, ...]
+
+AOB
+------
+27. A developer has told another about a lack of commitment to univeristy/ this module. QA managers are to speak with particular developer about issues
+Action: nip33, frs30

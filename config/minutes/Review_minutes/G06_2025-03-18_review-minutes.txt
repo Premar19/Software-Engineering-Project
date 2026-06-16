@@ -1,0 +1,128 @@
+Project: Deck of Cards
+Meeting: Weekly Review Meeting
+Persons present: All project members except Niall Perry
+Place and date of meeting: Room 6, Tuesday 18th March 2025
+Author: Francy Sasso
+Version: 1.0
+Circulation list:
+- frs30: Francy Sasso (Deputy QA Manager)
+- job130: Joe Ball
+- nas97: Natalia Spence (Team Leader)
+- prs49: Prem Sharma
+- ref17: Reema Fraser (Deputy Team Leader)
+- wis40: William Shipp
+- aba115: Abdullah Al-Samarrai
+
+
+Stories covered by review and their review status
+================================================
+DS1: Done
+DS2: Rolled over
+DS3: Rolled overr
+US1: Rolled over
+US2: Rolled over
+US3: Rolled over
+US4: Rolled over
+US5: Rolled over
+US6: Rolled over
+US7: Rolled over
+US8: Rolled over
+US9: Rolled over
+US10: Rolled over
+US11: Rolled over
+US12: Rolled over
+US13: Rolled over
+US14: Rolled over
+US15: Rolled over
+US16: Rolled over
+US18: Rolled over
+
+Story DS2: Document story checklist (if appropriate)
+======================================
+See Appendix A of SE.QA.07.
+1. Do all document story documents have the following information on the front cover:
+
+a) Title (indicating Group_name and nature of document)?
+Yes.
+
+b) Author(s): names and emails (in parentheses)?
+Yes.
+
+c) Date when the latest version was produced?
+No. Still has previous date.
+
+d) Version number (correct)?
+No. Still has old version.
+
+e) Document status must be For Review prior to the review. Is this correct?
+Yes.
+
+f) Name, Address of Dept and Copyright notice? This year’s date for the copyright?
+Yes.
+
+2. Does the header for the document contain title, version and status on each page?
+Yes.
+
+3. Does the footer contain "Aberystwyth University / Computer Science" and "Page x of y" correctly?
+Yes.
+
+4. Does the document contain specified sections:
+
+a) Contents.
+Yes.
+
+b) Introduction: Purpose of document, Scope, Objectives.
+Yes.
+
+c) <Main Body> with appropriate sections.
+Yes.
+
+d) References
+Yes.
+
+e) Document Change History with Version, Issue No., Date, Changes Made to Document, Changed by.
+Yes.
+
+5. Are the sections numbered correctly from 1?
+Yes.
+
+6. Are fonts appropriate in headers and in body text and based on the provided templates (Word or Latex)?
+No, an atempt at latex was made but not yet successful.
+
+Story DS3: Test specification checklist
+========================================================
+See Appendix D of SE.QS.07.
+1. For the system test specification, does the document meet the General Document Standards?
+Not applicable.
+
+2. Do the Test Specifications have the columns: Test Ref, User Story, Test content,
+Input, Output, Pass criteria, Result / Fail reason, for each functional requirement and
+each non-functional attribute identified in the story?
+Yes, for the ones done so far.
+
+3. Do the system tests cover every Sprint Backlog User story?
+No.
+
+4. Are the system tests repeatable, i.e., is explicit test input data included?
+Yes, for the ones done so far.
+
+5. Do the system tests for each user story cover all possibilities?
+In particular, do they test for all possible types of failure? Are boundary conditions tested?
+Yes, for the ones done so far.
+
+6. Have all previous system tests as well as the current sprint tests passed?
+No.
+
+7. Where a system test has failed, is the reason for the failure made clear?
+Not applicable.
+
+8. Have adequate unit tests been written for the current Sprint’s User Stories? Are they automated correctly?
+No.
+
+9. Is there evidence that the unit tests are passing
+Yes.
+
+AOB
+===
+
+NONE

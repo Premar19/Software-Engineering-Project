@@ -1,0 +1,42 @@
+Author: nip33
+Sprint: 8(26/03/25)
+
+Assigned actions
+=================
+Tuesday - 
+
+Action 1: Test table for US7 and US8
+added system tests to the test table document for later testing
+Hours: 2
+
+Action 2: Design document
+Added design diagrams, added descriptions, indented pseudocode and overall editinging of document
+Hours: 4
+
+Action 3: Friday meeting
+Meeting to discuss and keep up to date on where we were with the project and plan for progression
+Hours: 1
+
+Action 4: Design Diagram
+Created a design diagram for US7: shuffle card
+Hours: 0.5
+
+Action 5: implementation of US11
+With Natalia, coded US11: Reveal a group of cards
+Hours: 0.5
+
+Action 6: Review meeting
+Attened the weekly Review meeting on tuesday
+Hours: 1
+
+Action 7: Review minutes
+Write up of the review minutes
+Hours: 1
+
+
+
+Other project work
+==================
+NONE
+--------------------------------------- 
+Total hours: 10

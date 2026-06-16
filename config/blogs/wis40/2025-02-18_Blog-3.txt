@@ -1,0 +1,33 @@
+Author: Wis40
+Sprint: 3(18/2/25)
+
+Assigned actions
+=================
+
+Action 2 (14-2-2025): Group scrum regarding UI prototype
+
+discussing UI prototype standardisation between US points and ammendments to general UI elements
+
+Hours: 2
+
+Action 2 (15-2-2025): UI Prototype for US17
+
+Create a UI prototype presentation as outlined in SE.QA.3 regarding US17 - Snap To Grid
+
+Hours: 2
+
+Action 3 (18-2-2025): Sprint Reveiw meeting 
+
+Final ammendments to UI prototype presentation and discussing previos sprint
+
+Hours: 2
+
+Other project work
+==================
+NONE
+
+Hours: 0
+
+Total hours: 6
+
+

@@ -1,0 +1,27 @@
+Author: J0B130
+Sprint: 3
+(06/02/25)
+
+Assigned actions
+=================
+
+Action 1: DS.1.18: define_sound_effects
+
+Work on prototype presentation for US18
+
+Hours: 3
+
+Action 2: Normalise formatting across entire group presentation.
+
+
+
+Hours: 2
+
+Other project work
+==================
+
+Meeting on friday to narrow down parts of the prototype design.
+
+Hours: 1
+
+Total hours: 6

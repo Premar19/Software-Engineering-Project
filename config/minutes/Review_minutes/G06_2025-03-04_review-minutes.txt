@@ -1,0 +1,62 @@
+Project: Deck of Cards
+Meeting: Weekly Sprint review
+Persons present: All project members present except Abdullah Al-Samarrai & Billy Edwards, (for unknown reasosns), and Joe Ball & Niall Perry, (as they were sick)
+Place and date of meeting: Room 7, Tuesday 4th March 2025
+Author: Francy Sasso
+Version: 1.0
+Circulation list:
+- frs30: Francy Sasso (Deputy QA Manager)
+- nas97: Natalia Spence (Team Leader)
+- prs49: Prem Sharma
+- ref17: Reema Fraser (Deputy Team Leader)
+- wis40: William Shipp
+
+Stories covered by review and their review status
+==================================================
+DS2 : Done
+DS1 : Done
+
+Story DS2: Design specification checklist
+====================================
+1. Does the document meet the General Document Standards (see [5] and questions in appendix A)?
+No, small changes need to be made to add descriptions to the included diagrams
+
+2. Is there rough pseudocode for some user stories?
+Yes.
+
+3. Is there a table mapping of user stories the classes?
+Yes.
+
+4. Are key interactions between system users, classes and packages captured by UML diagrams? 
+Yes.
+
+5. Is one user story fully been programmed?
+No, many user stories were started but none can be considered doen yet.
+
+6. Has testing and needed user story class diagram for the developed user story been documented?
+No.
+
+7. Does the design document now include updated versions of the package and system diagrams?
+Yes.
+
+8. Has the JavaFX animations and events spike work been reviewed?
+Yes.
+
+9. Has the JUnit spike work been reviewed?
+No, needed information and research has been handled but no official document has been made yet.
+
+10. Has the JavaFX sound effects spike work been reviewed?
+No.
+
+11. Has the JavaFX file handling spike work been reviewed?
+No, and there is no evidence of a start having been made, (not even a verbal confirmation yet).
+
+12. Will the design lead to a maintainable system?
+Unable to say
+
+13. Could the design be modified to offer more opportunity for reusing existing software libraries?
+Unable to say.
+
+AOB
+===
+NONE

@@ -1,0 +1,23 @@
+Author: Wis40
+Sprint: 8(01/04/25)
+Assigned actions
+=================
+
+Action 1 (28-03-2025): Sprint Reveiw meeting 
+Disccusion of feedback from ATP - 3 and improvments to the program
+
+Hours: 1
+
+Action 2 (31-03-2025): Various bug fixes and improvments to US-5 and US-2
+
+Hours: 1
+
+Other project work
+
+==================
+
+NONE
+
+Hours: 0
+
+Total hours: 2

@@ -1,0 +1,34 @@
+Author: prs49
+Sprint: 6(11/03/25)
+
+Assigned actions
+=================
+
+Action 1: US4 Implementation
+
+Defined default table background and allow user to choose an image of their own to set as the table background. Also fixed up the text that referred to it.
+
+Hours: 2
+
+Action 2: US9 Test Table
+
+Created a test table for US9 that is flipping a card
+
+Hours: 1
+
+Action 3: Meeting
+
+Looked over work done in the sprint and looked upon what needs to be done for the next sprint
+
+Hours: 1
+
+Other project work
+==================
+
+Action 4: Understanding Implementation
+
+Spent some time understanding the implementation of US 12 and 15, so I can follow up and use the appropriate logic for US13 and 16
+
+Hours: 2
+
+Total hours: 7

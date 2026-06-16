@@ -1,0 +1,27 @@
+Author: Wis40
+Sprint: 2(11/2/25)
+
+Assigned actions
+=================
+
+Action 1 (8-2-2025): UI Prototype for US7
+
+Create a UI prototype presentation as outlined in SE.QA.3 regarding US7
+
+Hours: 3
+
+Action 2 (11-2-2025): Present US7 SLides to Group
+
+Presented my slide about UI prototype US7
+
+Hours: 1
+
+Other project work
+==================
+NONE
+
+Hours: 0
+
+Total hours: 4
+
+

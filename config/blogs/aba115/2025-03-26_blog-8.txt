@@ -1,0 +1,25 @@
+Author: ABA115
+Sprint: 8 (26/03/25)
+
+
+Assigned actions
+===============================================================
+Action 1: implementing US6 and 8
+The most difficult tasks as of yet but i managed to Implem ways the user can use keybind to move cards, flip and reveal tested it and it works.
+Hour: 6 hours
+===============================================================
+Action 2: Table testing for US 10 and 15
+Finished test table for us10 and 15 and will complete 2 more user story testing and upload it to the shared document.
+Hours:2
+Action 3: Junit test for US6
+Made junit test to for keyboard mouse movement and all the tests passes no errors
+Hours 1
+
+
+Other project work
+===================================================================
+Friday meeting to ensure the remaining must haves are done.
+Hours:1
+
+
+Total hours: 10

@@ -1,0 +1,412 @@
+\documentclass[a4paper]{project}
+
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{parskip}
+\usepackage{geometry}
+\usepackage[linesnumbered, ruled]{algorithm2e}
+\usepackage{array}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{varioref}
+\usepackage[pdftex, hidelinks]{hyperref}
+\usepackage{cleveref}
+
+% Used by \maketitle on the title page	
+\title{Software Engineering Group Project}
+\subtitle{Final Report}
+\shorttitle{Report}
+\version{1.0}
+\status{Release}
+\date{08 May 2025}
+\author{
+	Natalia Spence (nas97),
+	Reema Fraser (ref17)
+}
+
+\begin{document}
+	\maketitle
+	\tableofcontents
+	
+	\newpage
+	
+	\section{INTRODUCTION}\label{sec:introduction}
+	
+		\subsection{Purpose Of This Document}\label{subsec:document-purpose}
+	
+			The purpose of this document is to give an overview of the project and its members. It will briefly summarise the project and give a historical account of it. Each member will be evaluated, praising them but also critiquing their flaws. Finally, the whole team will be evaluated on how well they worked together to produce this collective work.
+		
+		\subsection{Scope}\label{subsec:document-scope}
+			
+			This document should be read by anyone evaluating the project group and their work. Prior familiarity with SE.QA.10 \cite{SE.QA.10} is recommended, but not required to read this document. This document will be written with the structure and guidance of the Example Report \cite{Example Report} provided.
+			
+		\subsection{Objectives}\label{subsec:document-objectives}
+			
+			The objective of this document is to both give a brief summary of the project and to evaluate its outcome. This document should conform to all QA standards for documentation found in SE.QA.02 \cite{SE.QA.02} and meet all requirements listed in SE.QA.10 \cite{SE.QA.10}.
+	
+	\section{MANAGEMENT SUMMARY}\label{sec:management-summary}
+	
+		The project program fulfils the first 16 of the 18 required user stories \cite{Product Backlog}, including all of the \emph{Must Have}s and some of the \emph{Nice To Have}s. The program provides a functional card deck simulation, without enforcing any specific game rules, allowing users to use a specified number of virtual packs of cards and move them around as you would in a real game of cards. The only requirements not met are the ability to snap cards to a grid layout (US17), which was unanimously deemed the lowest priority due to its complexity and status as a \emph{Nice To Have}, and sound effects (US18), which were not figured out until the day after the deadline, and so are not included. There are some small issues mainly found in the \emph{Nice To Have} requirements US14 and US16, but they are unlikely to cause significant issues for a user.
+		
+		Alongside this document, 4 other documents have also been created as a part of this project. These documents are, in order of creation, the DS1 UI prototype \cite{DS1}, the DS2 Design Document \cite{DS2}, the Test Specification \cite{Test Specification}, and the Maintenance Manual \cite{Maintenance Manual}. All of these documents contain the required information and are in a publishable state, meeting all QA standards.
+		
+		With the documentation complete and most requirements implemented, that puts this program in a functional state, but not fully complete and with ample room for improvement. Some group members expressed frustration about certain outstanding issues or unfulfilled requirements, but we were unable to deliver them before the deadline so they remain incomplete.
+		
+		Overall, the group performed well. As seen in \vref{sec:member-performance}, each member contributed different abilities, but every individual was essential to the creation of the project. The group had a clear structure allowing for everyone to complete their work without too many difficulties. While a lack of communication most of the way through lead to several stressful moments and uncertainties amongst the group, almost all members pulled through when needed most. Given we quickly found ourselves down one developer from the start, each of us had a higher workload than was originally anticipated, resulting in several late nights and considerably more working hours than expected for several of us.
+	
+	\section{HISTORICAL ACCOUNT}\label{sec:historical-account}
+	
+		\subsection{Sprint One}\label{subsec:sprint-one}
+		
+			The first week was spent familiarising ourselves with the project requirements, standards, and team. Each member was assigned to read the Product Backlog \cite{Product Backlog} document and another document as agreed upon in the first sprint planning session, then prepare a presentation on the latter to explain them to the rest of the group.
+			
+			We quickly decided to create a WhatsApp group chat, allowing for easy communication between members.
+			
+			All team members produced a presentation on a document except for Natalia Spence, who was not in the country for the first week due to being at FOSDEM, a software conference in Belgium.
+			
+		\subsection{Sprint Two}\label{subsec:sprint-two}
+		
+			During the second sprint the team voted that Niall Perry should be our QA manager with Francy Sasso as deputy, and that Natalia Spence should be project leader with Reema Fraser as deputy.
+			
+			We started creating the UI Prototype \cite{DS1} during the second sprint. Every team member was assigned a user story from the first 9, and created a series of powerpoint slides for each showing how it would look and function. The only exception to this was Billy Edwards, who did not do so and did not communicate with any other team members to inform them he would not be able to.
+			
+			Niall Perry and Francy Sasso went through the UI prototype and ensured everything fit QA standards.
+			
+		\subsection{Sprint Three}\label{subsec:sprint-three}
+		
+			The third sprint continued on from the second with the other 9 user stories. Billy once again did not complete his, leaving those to Francy to complete. Muhammad (team coach) informed us that the formatting for each slide was incorrect, which was later corrected by Chris (product owner), telling us to change it back to how we had it originally. Billy also stated he had no intention of participating and from here on barely attended any meetings, receiving a red card shortly after.
+			
+			Natalia started creating digital images to give the UI prototype a more polished look.
+			
+			Niall and Francy went through the UI prototype and ensured everything conformed to QA standards before submission.
+			
+		\subsection{Sprint Four}\label{subsec:sprint-four}
+
+			On sprint four we received feedback on our DS1 prototype which came with issues to correct which Reema Fraser addressed. Since we knew we would complete pseudocode the following week, some developers began familiarising themselves with their stories and started their pseudocode on the side.
+		
+			The focus for this sprint was diagrams for DS2 and spike work. A lot of spike work was assigned this week to help future development. Joe Ball focused on collecting user photos, Niall Perry explored JUnit testing and JavaFX was investigated by Prem Sharma, Abdullah Al-Samarrai and Natalia. 
+		
+			Natalia also began producing a guide on how to use and work with JavaFX which helped all developers set up the project on their own devices and practise the basics of using JavaFX. 
+		
+			Reema drafted a rough layout for DS2 so team members could begin uploading their work to one place. Diagrams created for this week for DS2 included the system diagram, the package diagram, and the class diagram by William Shipp, Natalia and Francy respectively.
+
+		\subsection{Sprint Five}\label{subsec:sprint-five}
+
+			In the fifth sprint we officially split the user stories by who was most interested in what, leaving everyone with 2 stories each. All developers then completed pseudocode for their respective stories, and some also began writing the actual code. Spike work continued, with Joe exploring sound effects relevant to his user story (US18), and Niall further investigating JUnit testing. Natalia refined the package diagram.
+		
+			A group meeting was held to establish the project’s base structure - discussing required classes and mapping user stories to them. During this session, Natalia also created a basic title screen and button as the project’s foundation. Coding began on this foundation, with Natalia working on US1 and the card backs for US3, and Prem focusing on US2.
+
+		\subsection{Sprint Six}\label{subsec:sprint-six}
+			
+			After the fifth sprint we received feedback for DS2, which came with corrections that Francy, Reema and Niall worked on. This involved reformatting the document, writing an introduction and creating a \LaTeX\ version. Francy and Reema also both created the sequence diagrams and testing tables for stories 4 and 6.
+		
+			We held an extra group meeting to lay more foundations, where we implemented the bare minimum for cards and decks. This allowed others to begin coding. Natalia completed US12 and US15 to the best they were able with the current state of the program, implementing the main algorithm it would use. Joe implemented US8 (which also involved all code for selecting multiple cards), and William completed US14. We had to reallocate Billy's work since he was no longer a developer; William completed his pseudocode for US 1 and 2. 
+		
+			Niall also began creating images for each card in a deck, and Abdullah was ill and completed no work.
+
+		\subsection{Sprint Seven}\label{subsec:sprint-seven}
+		
+			For the seventh sprint onwards we began checking in with the team daily to keep track of progress and ensure work was actually done, which proved somewhat effective.
+			
+			We started by migrating the project to use Maven. This had it's drawbacks, particularly the complete change in project structure causing merge conflicts for several members, but allows the program to run without additional installation steps and gave us the ability to have specific directories for user uploaded images and saved files alongside the compiled code.
+			
+			More sequence diagrams were produced by Abdullah, Natalia, Francy and Reema, with unit tests being created for user stories 12 and 15. Abdullah, Francy, Niall, Prem and Reema made significant progress in the system test table, whilst Joe implemented the vast majority of US8, allowing for selection of multiple cards or decks, and William produced code for cards to have suits and values, and for decks to contain cards and be capable of being shuffled.
+			
+		\subsection{Sprint Eight}\label{subsec:sprint-eight}
+		
+			Sprint eight involved a lot of documentation and development from everyone on the team, with particularly significant contributions from Francy and Prem.
+			
+			Abdullah implemented keyboard input for moving cards and decks, Francy created the vast majority of US3's logic and unit tests, and Joe developed card flipping before completing unit tests for US8, 9 and 10. Natalia created the menu in the corner of the table for exiting or recording games, before finalising US12 and updating US15 to include the actions implemented more recently. Niall built on the card flip logic to implement revealing cards temporarily, whilst Reema made the card images actually display on the table and Prem implemented the entirety of US4 (custom table backgrounds) and began work on replaying dealing layouts.
+			
+			Reema, Prem, Niall and Abdullah produced more system tests, and more sequence diagrams were created by Niall, Natalia and Reema.
+			
+		\subsection{Sprint Nine}\label{subsec:sprint-nine}
+		
+			During the ninth sprint, Francy finalised US3, fixing many bugs that had been missed before, with Reema helping fix some issues with it, while Joe modified previous code to meet criteria set by the product owner's prior feedback. Natalia updated US15 to save the initial state of the table, and modified US6 and US8 to be slightly more intuitive after feedback, while Prem continued implementation of US13 and improved US4 and William made improvements to US2 and US5.
+			
+			System tests were produced by Niall and Reema and improved by Abdullah, with Niall also creating unit tests for US11 and a sequence diagram for US9.
+		
+			Abdullah made improvements to the system tests for US10 and produced a detailed sequence diagram for user stories 15 and 16.
+			
+			Natalia overhauled the design document to conform to the required format using the provided template, and Reema rewrote the pseudocode for US5 after feedback and began working on JavaDoc for the codebase.
+			
+		\subsection{Sprint Ten}\label{subsec:sprint-ten}
+		
+			Sprint ten was the final sprint, split over Easter, which lead to a lot of work being completed. Joe produced JavaDoc for a large portion of the codebase, before creating working code for US18, which unfortunately was not quite committed on time to meet the deadline and had to be reverted at the product owner's request. Francy created detailed JavaDoc comments for US2 and US3, whilst William fixed multiple issues with US14, providing unit tests and JavaDoc for it, and Natalia created the JavaDoc for anything that was missing it afterwards and wrote the unit tests for US4.
+			
+			More system tests were created by Francy and Abdullah, the latter also completing some spike work. Sequence diagrams were made by Francy and Reema, and Niall and Francy rewrote pseudocode after feedback from the product owner, with Niall updating the design document to include everyone's produced documentation.
+			
+			During the last week of Easter, Prem discovered a flaw in the design of the program that required a full rewrite of the replay system and some of the recording system, so him and Natalia worked closely from then until submission to fully rewrite replays and modify recording to assist with that, requiring significant time contributions larger than had been needed at any prior point in the project and individual meetings entirely focussing on that single problem. The final result was not perfect, but almost everything for US12, US13, US15 and US16 worked as required, which was a significant improvement over US12 and US15 working and US13 and US16 being largely non-functional.
+			
+		\subsection{Sprint Eleven}\label{subsec:sprint-eleven}
+		
+			Whilst technically not a sprint, the eleventh week (after code submission) was still rather busy, producing all required documentation that had not yet been completed and updating existing documentation to reflect changes over development.
+			
+			Abdullah produced a sequence diagram for US17 since we had overlooked it initially, and then worked with Prem and William to write up class descriptions for every class, with William and Prem updating the pseudocode for US17 and US18 respectively as per feedback from the product owner.
+			
+			Francy and Niall worked together to produce the maintenance manual with input from other developers, whilst Natalia and Reema created the final report and member performance evaluations.
+			
+			Niall fixed the meeting minutes on GitLab and added updated pseudocode and diagram descriptions to the design document, with William updating the UI prototype to reflect the final product. Reema made corrections to the testing specification and fixed the design document history table, allowing Natalia to go through the design document, adding the newly made class descriptions and updated history table, and correcting formatting as needed. Francy checked the accuracy of the testing specification and fixed formatting, ensuring it meets QA standards.
+	
+	\section{FINAL PROJECT STATE}\label{sec:final-project-state}
+	
+		For documents, we believe that all required information is present in each document, and all are presented to a high standard. The main authors of each document are listed on the front page of each and all believe their documents are fully complete. The project leader has briefly gone through each document to check them, but generally trusts that the group members are correct in their claims.
+		
+		It has been ensured that all pseudocode in the design document does not bear too much similarity to Java code, and all diagrams have captions and descriptions provided. The UI prototype has been updated to be accurate to the final software produced with minimal changes being made after implementation aside from changing the background of each screen. The Test Specification has been fully completed and all tests have been ran, with any failures being explained as needed. The maintenance manual has been completed to a high standard with great detail.
+	
+		In the final submission of the project's codebase, all user stories except for US17 (Snap To Grid) and US18 (Sound Effects) were completed.
+		
+		Most of the user stories work with no bugs, however there are some we did not have the time to patch, as seen in the README and Maintenance Manual. In short:
+		
+		\begin{itemize}
+			\item Drawing the second last card of a deck sometimes results in the replacing of the deck with its final card being handled incorrectly, leading to an invisible deck you can stack cards on to vanish them, and the second last card still following the mouse when you right click and drag on another card (despite that normally not doing anything)
+			\item Flipping or revealing cards does not conserve their rotation, simply resetting it instead
+			\item Cards/decks can be dragged off-screen in several ways and are difficult or impossible to recover once that is done
+			\item Right click popups on the table are not keyboard navigable, nor can you select cards/decks or perform actions on hovered cards/decks with the keyboard (although every other menu is and you can perform actions on cards/decks selected via mouse input with the keyboard)
+			\item Exiting fullscreen on MacOS or Linux (it is not possible on Windows) can result in some bugs with screen positioning and the window bar being missing, so is not advised
+			\item In a replay, manually skipping forward whilst a reveal action is in progress will break the replay if it tries to play an action with the revealed card before the animation finishes (this rarely happens in practice due to the specific requirements to cause the bug)
+			\item If you play a replay, return to the menu, then attempt to play another replay, it immediately ends the replay
+		\end{itemize}
+		
+		Whilst we would have preferred to have an extra few days to polish the software, it is still useable despite these, with the possible exception of the issue with drawing the second last card of a deck, which we attempted to fix but had only noticed the issue at the end of the last sprint so did not end up having enough time to do so.
+	
+	\section{MEMBER PERFORMANCE}\label{sec:member-performance}
+	
+		\subsection{Natalia Spence - Project Leader}\label{subsec:performance-natalia-spence}
+	
+			Natalia took on the role of project leader with remarkable dedication and effectiveness, despite initially being uncertain about stepping into the position. Not only did she manage the majority of the programming work, but she also excelled in coordinating the team, setting weekly goals, and keeping everyone aligned and motivated. \\
+			A standout quality was her willingness to help others - often teaching developers how to use JavaFX and other libraries, and doing so with patience and genuine care, frequently outside of scheduled hours. During our weekly review meetings, Natalia addressed developers that fell behind or had any last-minute issues by supporting them directly, this helped us keep the project work on track.  She had a strong grasp of every aspect of the project and always seemed to know exactly what was going on; even when a task was entirely separate from her own responsibilities, she could clearly explain what was needed and help team developers understand their tasks or resolve confusion. She would assign work based on the developer’s level and reliability which helped all developers keep up, for example assigning the more complex coding stories to more advanced developers. \\
+			Her commitment went far beyond expectations, often working late hours to ensure the code was functional and up to standard. Natalia showed strong leadership by balancing encouragement with accountability, stepping in to resolve coding issues and pushing the team to meet deadlines. At times she took on an excessive portion of the workload, which, while well-intentioned and appreciated, would have been more effective and fair if certain tasks had been delegated to other developers to ensure a more balanced distribution of work. \\
+			While firmer communication could have helped in holding some team developers more accountable, her overall reliability, passion for coding, and ability to keep the group focused made her an outstanding project leader.
+			
+			The deputy project leader, who authored this evaluation, believes this is a fair but critical assessment of Natalia's work towards the group project.
+			
+			\begin{center}
+				\setlength{\tabcolsep}{0.1\paperwidth}
+				\begin{tabular}{c c}
+					Email & Email \\
+					ref17 & nas97
+				\end{tabular}
+			\end{center}
+			
+			The relevant members have initialled above to show that they approve of this evaluation.
+			
+		\subsection{Reema Fraser - Deputy Project Leader}\label{subsec:performance-reema-fraser}
+		
+			Reema was a reliable team member from the start to the end, always completing her tasks on time and regularly taking on other tasks from people who felt overwhelmed or that we had planned to leave for the next week. She always kept in touch with the rest of the team, helping ensure everything ran smoothly and tasks were completed on time. \\
+			She constantly kept an eye out for tasks that had been overlooked or completed incorrectly, spotting issues to correct that no one else noticed and mentioning when someone was mistakenly not assigned enough work for a sprint or in one case had not been assigned any coding tasks at all, allowing for that to be fixed. \\
+			Always willing to help others when they were struggling with the workload, Reema made significant contributions towards the project's documentation, producing a large number of diagrams and system tests over the course of the project, allowing others to focus on their assigned tasks without a significantly increased workload due to the lack of ninth developer on the team. \\
+			While her status as deputy project leader was not called on by the project leader as often as they likely should have, when needed she always proved invaluable, especially for writing the final project report after the final sprint when the project leader had very little time, was running behind, and struggled with writing the performance evaluations.
+		
+			The project leader, who authored this evaluation, believes this is a fair but critical assessment of Reema's work towards the group project.
+			
+			\begin{center}
+				\setlength{\tabcolsep}{0.1\paperwidth}
+				\begin{tabular}{c c}
+					Email & Email  \\
+					nas97 & ref17
+				\end{tabular}
+			\end{center}
+			
+			The relevant members have initialled above to show that they approve of this evaluation.
+			
+		\subsection{Niall Perry - QA Manager}\label{subsec:performance-niall-perry}
+		
+			At the beginning of the project, Niall demonstrated a high level of reliability and delivered work of a high standard. He quickly established himself as a capable and proactive team member, contributing in meetings and often taking initiative in discussions. One of his notable contributions was the creation of custom card images for every card in the program, which added a unique and original touch to our final product; this was greatly appreciated by the team. \\
+			However, as the project progressed, particularly during the mid to later stages, his reliability declined. He appeared to be overwhelmed and overworked yet continued to volunteer for additional tasks. In several instances, tasks were retained instead of being delegated to the deputy, even when team members offered support. This resulted in some deliverables being delayed or left incomplete. \\
+			One area that required improvement was the quality assurance checks for the code. Approximately half of the code assigned for review was only partially QA checked, with the rest not being checked at all, and the work did not fully adhere to the SE.QA.09 standard. Testing documentation was also not submitted as expected, which caused some uncertainty regarding formatting and compliance with requirements. While Niall had the intention to complete these tasks, there was limited communication with the team about the challenges he was facing, and for that reason issues were only identified later in the process. \\
+			Overall, despite standards decreasing later in the project, Niall made many valuable contributions, particularly through his creative input, especially during the early stages of the project.
+			
+			The project leader and deputy project leader, who co-authored this evaluation, believe this is a fair but critical assessment of Niall's work towards the group project.
+			
+			\begin{center}
+				\setlength{\tabcolsep}{0.05\paperwidth}
+				\begin{tabular}{c c c}
+					Email & Email & Email  \\
+					nas97 & ref17 & nip33
+				\end{tabular}
+			\end{center}
+			
+			The relevant members have initialled above to show that they approve of this evaluation.
+		
+		\subsection{Francy Sasso - Deputy QA Manager}\label{subsec:performance-francy-sasso}
+		
+			Throughout the project, Francy was a consistently strong contributor who demonstrated technical skill, creativity, and dedication. Early on, she encountered some difficulty in navigating the balance between her responsibilities as deputy and the need to avoid overstepping boundaries. However, she adjusted well as the project progressed. \\
+			Francy took full ownership of one of the UI screens and its associated systems, handling them with precision and a high level of quality. Her work in this area was not only functionally solid but also visually impressive—she went above and beyond by designing original pixel art backgrounds for each screen, which added a distinctive and professional polish to the overall user interface. \\
+			In addition to her core responsibilities, Francy was also highly supportive of the team. When the QA Manager encountered delays, she stepped in willingly to take on extra tasks, ensuring the team stayed on track. Her attention to detail was particularly noteworthy; she frequently identified and addressed finer points that others might have overlooked. \\
+			She also was vital in group meetings where she would help make sure everyone stayed on track, ensuring points that needed addressing were not forgotten whilst remaining positive the entire time, preventing the level of work that was sometimes required from causing any team member's morale to waver. \\
+			Overall, Francy was a proactive, reliable and driven team member who constantly produced high quality work in all areas of the project, her contributions significantly enhancing both the functionality and aesthetic of the project.
+			
+			The project leader and deputy project leader, who co-authored this evaluation, believe this is a fair but critical assessment of Francy's work towards the group project.
+			
+			\begin{center}
+				\setlength{\tabcolsep}{0.05\paperwidth}
+				\begin{tabular}{c c c}
+					Email & Email & Email  \\
+					nas97 & ref17 & frs30
+				\end{tabular}
+			\end{center}
+			
+			The relevant members have initialled above to show that they approve of this evaluation.
+		
+		\subsection{Abdullah Al-Samarrai - Developer}\label{subsec:performance-abdullah-al-samarrai}
+		
+			Abdullah primarily contributed to the documentation aspects of the project, producing detailed diagrams, pseudocode, and system tests- areas he conveyed he felt more confident in. \\
+			A recurring challenge throughout the project was Abdullah’s limited engagement during collaborative work. He was often quiet when tasks were being delegated and did not volunteer to assist, which made it difficult to distribute work evenly without knowing what he felt he was capable of. Additionally, several assigned tasks - particularly spike work - were either delayed or left incomplete for extended periods. In some instances, work intended for sprint reviews was presented only after meetings, rather than being prepared in advance. \\
+			Communication and participation also posed challenges; Abdullah was often absent from meetings and contributed minimally during group discussions, which at times gave the impression of disengagement. While his overall involvement remained below expectations for a collaborative project, which did impact team dynamics. Compared to other members, Abdullah completed fewer tasks, though there was a modest improvement in participation during the final stages. \\
+			It is worth noting that when these concerns were raised, he admitted to struggling with code and so took on more diagram work, which he then completed to significantly higher standards than anyone else had done for their tasks. This allowed him to contribute to areas where he was more confident and helped him remain productive, especially toward the end of the project.
+		
+			The project leader and deputy project leader, who co-authored this evaluation, believe this is a fair but critical assessment of Abdullah's work towards the group project.
+			
+			\begin{center}
+				\setlength{\tabcolsep}{0.05\paperwidth}
+				\begin{tabular}{c c c}
+					Email & Email & Email  \\
+					nas97 & ref17 & aba115
+				\end{tabular}
+			\end{center}
+			
+			The relevant members have initialled above to show that they approve of this evaluation.
+		
+		\subsection{Billy Edwards}\label{subsec:performance-billy-edwards}
+		
+			Billy’s sole contribution to the project was the creation of a PowerPoint presentation during the first sprint to explain one of the provided documents. He attended approximately three team meetings throughout the duration of the project. In the early stages, tasks continued to be assigned to him in good faith, however, as he eventually stopped attending meetings entirely, his responsibilities had to be redistributed among other team members. Due to the continued lack of engagement and contribution, Billy was issued a red card and later left the group, having no communication from that point onwards.
+			
+			The project leader and deputy project leader, who co-authored this evaluation, believe this is a fair but critical assessment of Billy's work towards the group project.
+			
+			\begin{center}
+				\setlength{\tabcolsep}{0.1\paperwidth}
+				\begin{tabular}{c c}
+					Email & Email \\
+					nas97 & ref17
+				\end{tabular}
+			\end{center}
+		
+		\subsection{Joe Ball - Developer}\label{subsec:performance-joe-ball}
+		
+			Joe consistently produced high quality work throughout the project and demonstrated strong dedication, often staying up late to ensure tasks were completed on time. He fully designed and implemented key aspects of the code which allowed manipulation of multiple cards or decks at once – a crucial feature other developers then built upon. His communicating with the team was clear and proactive; he wasn’t afraid to ask for help when needed and always informed us long in advance when he was unable to attend meetings. \\
+			Where we lacked spike work, he took up time to look into future helpful areas such as sound. He could have done with contributing more to the documentation of the project, but made up for that with his code submissions. Notably, he successfully developed and completed US18, although it was unfortunately not quite in time for the final code submission. Beyond his technical contributions, he also helped maintain team morale - bringing snacks to meetings and willingly offering to take on or swap tasks when necessary, still completing almost every task assigned to him, and communicating if he was unable so they could be reassigned to someone else. \\
+			Joe proved to be vital to the success of the project, and without his contributions we would not have completed nearly as many requirements, seeing as his work formed the basis of 3 requirements and closely tied into several others.
+		
+			The project leader and deputy project leader, who co-authored this evaluation, believe this is a fair but critical assessment of Joe's work towards the group project.
+			
+			\begin{center}
+				\setlength{\tabcolsep}{0.05\paperwidth}
+				\begin{tabular}{c c c}
+					Email & Email & Email  \\
+					nas97 & ref17 & job130
+				\end{tabular}
+			\end{center}
+			
+			The relevant members have initialled above to show that they approve of this evaluation.
+		
+		\subsection{Prem Sharma - Developer}\label{subsec:performance-prem-sharma}
+		
+			Prem consistently demonstrated a high level of technical proficiency throughout the project, delivering high-quality contributions. His ability to design and implement complex systems was amongst the best in the team, as seen in the replay class. \\
+			While Prem initially maintained minimal communication, engaging only when necessary, there was a marked improvement in his collaboration by the midpoint of the development cycle. \\
+			A notable highlight of Prem’s contribution was his identification of a critical flaw in the initial design of the replay system, which necessitated a full rewrite of the replay functionality related to user stories US13 and US16 during the final sprint. Despite the significant scope of this task, Prem worked diligently, often committing extensive hours and multiple overnight sessions in order to ensure its successful completion. He collaborated closely with the Natalia, whose recording code formed the foundation for the replay system and also had to undergo several large changes to facilitate replays, demonstrating his commitment and reliability under pressure. \\
+			Though unit testing was not one of Prem’s strengths, he was able to ask for help when he needed it, and his ability to design and execute complex features helped compensate for this gap. He accepted and showed confidence in tackling challenging assignments, and his performance reflected a willingness to step up when needed, producing high quality code and documentation as required. \\
+			Prem ended up being the main contributor behind the most complex system in the codebase, and without his contributions they likely would not have been even partially completed.
+		
+			The project leader and deputy project leader, who co-authored this evaluation, believe this is a fair but critical assessment of Prem's work towards the group project.
+			
+			\begin{center}
+				\setlength{\tabcolsep}{0.05\paperwidth}
+				\begin{tabular}{c c c}
+					Email & Email & Email  \\
+					nas97 & ref17 & prs49
+				\end{tabular}
+			\end{center}
+			
+			The relevant members have initialled above to show that they approve of this evaluation.
+		
+		\subsection{William Shipp - Developer}\label{subsec:performance-william-shipp}
+		
+			William consistently produced high-quality work and contributed strong technical skills throughout the project. He played a key role in implementing critical functionality, including the development of decks that contain cards and can be shuffled, and the integration of suit and value attributes into individual cards - features that were fundamental to the system's design. Additionally, he successfully implemented the entirety of US14 independently early on and resolved many bugs related to it that others had been unable to fix. \\
+			While William’s technical contributions were significant, he unfortunately often did not submit work on time for the sprint review despite indicating that it was complete, meaning that it couldn’t be looked at or checked during the meeting. In these cases, the work was usually completed as he had stated, just not pushed until after the review meetings, which did cause some delays in development. \\
+			Despite the late deliveries, William showed initiative during the end of development, where he voluntarily took on several tasks that another team member was unable to complete. He has shown willingness to step up and support others when needed, helping prevent potentially damaging delays. \\
+			Overall, William proved to be a capable and skilled developer who brought substantial value to the team, always producing high quality work.
+		
+			The project leader and deputy project leader, who co-authored this evaluation, believe this is a fair but critical assessment of William's work towards the group project.
+			
+			\begin{center}
+				\setlength{\tabcolsep}{0.05\paperwidth}
+				\begin{tabular}{c c c}
+					Email & Email & Email  \\
+					nas97 & ref17 & wis40
+				\end{tabular}
+			\end{center}
+			
+			The relevant members have initialled above to show that they approve of this evaluation.
+
+	\section{PROJECT EVALUATION}\label{sec:project-evaluation}
+	
+		There were a lot of issues regarding lack of communication throughout the project, despite efforts to resolve them, and team members only really consistently communicated in the final few sprints. During each stage of the project after producing the UI prototype until the start of development, no one really knew for sure what we were supposed to be completing, and asking our team coach revealed that he did not know either at any point during that process.
+		
+		More confusion was caused when our team coach asked us to close completed issues (which the product owner later said should not be done) and later told us the wrong deadline for the code submission, stating it was due Friday when it was actually due in the final tutorial on Wednesday, resulting in US18 being finished but unable to be submitted in time due to the deadline being earlier than expected, and preventing us from fixing a major bug with the system revolving around drawing the second last card of a deck.
+		
+		Having one developer that did not participate also resulted in everyone having more work than they otherwise should have, and because that developer attended a meeting every now and then, he did not reach a red card for a while, meaning our team coach required us to continue assigning them work despite them having completed none of it, preventing us from doing those tasks until right before the sprint review when he proved he would not be doing them.
+		
+		Several developers failed to ask for help when they needed it despite everyone being very open to provide support, resulting in several tasks being completed after the sprint reviews they were supposed to be done by, if at all. This has caused issues several times, and members were asked to complete work on time repeatedly, which prevented future problems in nearly all cases.
+		
+		Despite these numerous setbacks, almost all requirements were completed, and the resulting program is functional with minimal issues, with developers having tested the software by playing common card games to ensure everything works as a regular user would expect.
+		
+		All required documentation has been produced to a high standard, containing all required information, and follows all QA standards.
+		
+		Overall, the project was rather unorganised and chaotic compared to our hopes, but despite this we pulled through and produced a functional program with high quality documentation thanks to all of the participating members of the team - without any one of them, the project would not have been nearly as successful.
+	
+	\clearpage
+	
+	\addcontentsline{toc}{section}{REFERENCES}
+	
+	\begin{thebibliography}{5}
+		\bibitem{Product Backlog} \emph{Software Engineering Group Projects}
+		Deck of Cards Product Backlogs.
+		C.W. Loftus. Product Backlog 1.4 Release.
+		\bibitem{Example Report} \emph{Software Engineering Group Projects}
+		Example Report.
+		Unspecified. Example Report 1.3 Release.
+		\bibitem{SE.QA.02} \emph{Software Engineering Group Projects}
+		General Documentation Standards.
+		C.W. Loftus SE.QA.02. 3.2 Release.
+		\bibitem{SE.QA.10} \emph{Software Engineering Group Projects}
+		Producing Final Reports.
+		C.W. Loftus SE.QA.10. 3.2 Release.
+		\bibitem{DS1} \emph{Software Engineering Group Projects}
+		UI Prototype Design Specification.
+		N Perry, F Sasso, N Spence, R Fraser, A Al-Samarrai, J Ball, W Shipp, P Sharma DS1 2.0 Release.
+		\bibitem{DS2} \emph{Software Engineering Group Projects}
+		Design Document.
+		N Spence, N Perry, F Sasso, R Fraser, A Al-Samarrai, J Ball, W Shipp, P Sharma DS2 1.2 Release.
+		\bibitem{Test Specification} \emph{Software Engineering Group Projects}
+		Test Specification.
+		F Sasso, N Spence, R Fraser, J Ball, P Sharma, W Shipp, A Al-Samarrai, N Perry Test Specification 1.1 Release.
+		\bibitem{Maintenance Manual} \emph{Software Engineering Group Projects}
+		Maintenance Manual.
+		F Sasso, N Perry Maintenance Manual 1.0 Release.
+	\end{thebibliography}
+	
+	\clearpage
+	
+	\addcontentsline{toc}{section}{DOCUMENT HISTORY}
+	
+	\section*{DOCUMENT HISTORY}
+	
+	\begin{tabular}{|l|l|l|l|l|}
+		\hline
+		Version              & Issue No.              & Date                        & Changes made to Document                       & Changed by            \\ \hline
+		0.1                  & \#221                  & 05/05/2025                  & Created skeleton for document                  & N.S.                  \\ \hline
+		0.2                  & \#221                  & 05/05/2025                  & Add N.S. member performance evaluation         & R.F.                  \\ \hline
+		\multirow{2}{*}{0.3} & \multirow{2}{*}{\#221} & \multirow{2}{*}{05/05/2025} & Write introduction and management summary      & \multirow{2}{*}{N.S.} \\
+		                     &                        &                             & Write first 3 sprint accounts                  &                       \\ \hline
+		0.4                  & \#221                  & 06/05/2025                  & Draft member performance evaluations           & N.S.                  \\ \hline
+		0.4                  & \#221                  & 06/05/2025                  & Add sprint accounts for sprints 4 through 6    & R.F.                  \\ \hline
+		0.5                  & \#221                  & 06/05/2025                  & Add project evaluation and final project state & N.S.                  \\ \hline
+		0.6                  & \#221                  & 07/05/2025                  & Add remaining performance evaluations          & R.F. \& N.S.          \\ \hline
+		1.0                  & \#221                  & 08/05/2025                  & Add remaining sprint accounts                  & N.S.                  \\ \hline
+	\end{tabular}
+	
+	\label{thelastpage}
+\end{document}

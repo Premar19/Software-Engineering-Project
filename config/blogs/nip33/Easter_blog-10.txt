@@ -1,0 +1,29 @@
+Author: nip33
+Sprint: 10(Easter Break)
+
+Assigned actions
+=================
+1. Friday meeting 
+Atteneded a meeting to discuss the feedback from AT3
+Hours: 1
+
+2. Check User stories against Coding Standards
+Hours: 3
+
+3. Redo Pseudocode
+As it was in Java moved to proper form
+Hours: 1
+
+4. Edited Design document and added diagram 
+Write up of what was discussed
+Hours: 2
+
+5. recorded resuls of System Tests with Natalia
+Hours: 2
+
+Other project work
+==================
+NONE
+--------------------------------------- 
+
+Total Hours: 9

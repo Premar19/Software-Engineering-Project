@@ -1,0 +1,46 @@
+Author: Frs30
+Sprint: 7(18/03/25)
+
+Assigned actions
+=================
+
+Action 1: US6.2 System test table
+
+Corrected the test table foir user story 6 to include botht he mouse and key board tests needed.
+
+Hours: 2
+
+Action 2: US6.4 Sequence diagram 
+
+Corrected the sequence diagram to have the updated comand events to look out for.
+
+Hours: 1
+
+Action 3: US5.2 System test table
+
+Created the system test tabe for user story 5.
+
+Hours: 1
+
+Action 4: US5.4 Sequence diagram
+
+Created the sequence diagram for the user story 5, including the conditional statement which deals with clicking off of the deck menu pop-up.
+
+Hours: 1
+
+Action 5: US3.1 Implementation
+
+Started the implementation of US3 and thinking of the ligic towards saving and using the images the user will be inputting.
+
+Hours: 4
+
+Other project work
+==================
+
+Action 6: Review meeting minutes
+
+Wrote the laters review meeting minutes.
+
+Hours: 1
+
+Total hours: 10

@@ -1,0 +1,25 @@
+Author: J0B130
+Sprint: 1(05/02/25)
+
+Assigned actions
+=================
+
+Action 1: Read all QA documents
+
+Read all of the SE-QA documents.
+
+Hours: 2
+
+Action 2: Prepare a presentation for SE.QA.2 (QA standards)
+
+Summarised SE.QA 2 into a brief presentation ready for the sprint review meeting.
+
+Hours: 2
+
+Other project work
+==================
+NONE
+
+Hours: 0
+
+Total hours: 4

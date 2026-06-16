@@ -1,0 +1,16 @@
+
+Author: ABA115
+Sprint: 10 + easter (30/04/25)
+Assigned actions
+===============================================================
+Action 1:spikework
+file handling in java created a document with several opages of explenation.
+Hour: 4 hours
+===============================================================
+Action 2: wrote new system tests us15 and completing tests for us12 and us10 after running
+Hours:3
+Other project work
+===================================================================
+sprint review meeting making sure everyone is on track
+Hours:1
+Total hours: 8

@@ -1,0 +1,41 @@
+Author: nas97
+Sprint: 7(18/03/2025)
+
+Assigned actions
+=================
+
+Action 1: Migrate Project To Maven
+
+I migrated the project to maven and set up unit testing. I attempted to set up testfx, but eventually determined
+that it is a pain to work with and not necessary as that is what system testing is for.
+
+Hours: 4
+
+Action 2: US1 Unit Tests
+
+I created unit tests for US1
+
+Hours: 1
+
+Action 3: Update README format
+
+I updated the README format to reflect feedback from DS2
+
+Hours: 0
+
+Action 4: US12/15 Unit Tests
+
+I created all unit tests currently possible for US12/15 based on the game actions present in the codebase.
+
+Hours: 1
+
+Action 5: US8/11 Sequence Diagrams
+
+I created sequence diagrams for US8 and US11.
+
+Hours: 2
+
+Other project work
+==================
+
+Total Hours: 8

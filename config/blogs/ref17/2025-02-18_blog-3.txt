@@ -1,0 +1,24 @@
+Author: REF17
+Sprint: 3 (18/02/25)
+Assigned actions
+=================
+Action 1: DS.1.16: Auto playing a previously played game
+I planned out the design for replaying a saved game where the user has full control navigating through moves using icons with self-explanatory meanings. I accounted for when the user selects to load a file of the incorrect. On paper I created flowcharts of the different combinations of buttons pressed and their result. 
+Hour: 3 hours
+
+Action 2: Creating design images
+I drew some design prototypes to show the group and to also be used in my PowerPoint. I came up with the layout for the replay screen which nap97 then created that into an image of the proper format which I then used in my PowerPoints. 
+Hours: 1
+
+Action 2: Create PowerPoint on prototype 
+I then created a PowerPoint using the design I showed to the group. I allow for the user to navigate between moves in a variety of ways using icon buttons on the top bar of the screen. 
+Hours: 2
+
+Other project work
+==================
+We held a meeting about the design for menus so all could contribute ideas. I presented my idea for the replay screen. We discussed using all icons for buttons rather than text (which ended in us tweaking my design), we kept to this theme to make our design more uniform.
+Hours:1
+
+
+Total hours: 7
+

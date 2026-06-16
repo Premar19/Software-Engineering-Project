@@ -1,0 +1,28 @@
+Author: Frs30
+Sprint: 11(06/05/25)
+
+Assigned actions
+=================
+
+Action 1: Maintenance Manual
+
+Completed the maintenance manual with the QA manager.
+
+Hours: 10
+
+Action 2: Class diagrams
+
+Re-did the class diagrams and packets.
+
+Action 3: Test Table
+
+Re-organised and laid out the system test document, along with informing everyone to check the tests they did and update some of the failed tests.
+
+Hours: 3
+
+Other project work
+==================
+
+N/A
+
+Total hours: 18

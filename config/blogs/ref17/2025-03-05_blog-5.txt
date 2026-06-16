@@ -1,0 +1,25 @@
+Author: REF17
+Sprint:5 (04/03/25)
+Assigned actions
+=================
+Action 1: pseudocode for US5
+I created pseudocode for shuffling a deck, this was a simple task which led me to complete SPW1.
+Hours: 1
+
+
+Other project work
+==================
+Action 2: Review meetings
+We checked over stories that needed to be rolled over and confirmed work that’s been complete and put it into the done section. 
+Hour: 1
+
+SPW1: Coding US5 without animation
+After coding randomising cards, I researched about already existing functions and premade packages available on java. I ended up to rewriting my code and this time used a premade function java offered which kept it simpler and tidy.
+Hours: 1
+
+SPW2: researching animation in JavaFXs
+I researched into JavaFXs to understand how it works and dabbled a bit into reading about how to present the animation.
+Hours: 2
+
+Total hours: 5
+

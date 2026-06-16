@@ -1,0 +1,65 @@
+Project: Deck of Cards
+Meeting: Weekly Sprint review
+Persons present: All project members present except Abdullah Al-Samarrai
+Place and date of meeting: Room 7, Tuesday 11th March 2025
+Author: Niall Perry
+Version: 1.0
+Circulation list:
+- frs30: Francy Sasso (Deputy QA Manager)
+- job130: Joe Ball
+- nas97: Natalia Spence (Team Leader)
+- nip33: Niall Perry (QA Manager)
+- prs49: Prem Sharma
+- ref17: Reema Fraser (Deputy Team Leader)
+- wis40: William Shipp
+
+Stories covered by review and their review status
+==================================================
+DS2, Archeitectural design: Done
+DS1, UI prototype: Done
+
+Story DS2: Design specification checklist
+====================================
+1. Does the document meet the General Document Standards (see [5] and questions in appendix A)?
+Yes
+
+2. Is there rough pseudocode for some user stories?
+Yes.
+
+3. Is there a table mapping of user stories the classes?
+Yes.
+
+4. Are key interactions between system users, classes and packages captured by UML diagrams? 
+Yes.
+
+5. Is one user story fully been programmed?
+Yes, US1
+
+6. Has testing and needed user story class diagram for the developed user story been documented?
+Yes.
+
+7. Does the design document now include updated versions of the package and system diagrams?
+Yes.
+
+8. Has the JavaFX animations and events spike work been reviewed?
+Yes.
+
+9. Has the JUnit spike work been reviewed?
+Yes.
+
+10. Has the JavaFX sound effects spike work been reviewed?
+No.
+
+11. Has the JavaFX file handling spike work been reviewed?
+No, and there is no evidence of a start having been made, (not even a verbal confirmation yet).
+
+12. Will the design lead to a maintainable system?
+Yes.
+
+13. Could the design be modified to offer more opportunity for reusing existing software libraries?
+Unable to say.
+
+AOB
+===
+NONE
+

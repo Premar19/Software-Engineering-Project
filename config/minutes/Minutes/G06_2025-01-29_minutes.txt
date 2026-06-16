@@ -1,0 +1,96 @@
+Project: Group Project Group 6 (CS22120)
+Meeting: Weekly Project Meeting 
+Persons present: All project members except 
+- bie2: Billy Edwards	
+- wis40 William Shipp
+- aba115: Abdullah Al-Samarrai
+Place and date of meeting: 0.21, Adeilad Cledwyn, Tuesday 29th January 2025
+Author: Muhammad Aslam [mua19] 
+Version: 1.0
+Circulation list:
+- ref17: Reema Fraser	
+- nas97: Natalia Spence	
+- frs30: Francy Sasso	
+- prs49: Prem Sharma 	
+- nip33: Niall Perry	
+- job130: Joe Ball		
+- mua19 Muhammad Aslam (Team Coach)
+
+Matters arising from previous meetings 
+======================================
+
+Report from review meeting
+--------------------------
+NONE
+
+Other matters
+-------------
+NONE
+
+New business 
+============
+
+Retrospective
+-------------
+NONE
+
+Sprint planning
+---------------
+
+1. Sprint goal defined. 
+To read QA documents ready for the first development sprint and start learning technologies
+Action: All
+
+2. User backlog epics broken down into three new stories: 
+NONE
+
+3. Agile planning game undertaken to size new stories.
+NONE
+
+4. Sprint Backlog stories defined. 
+Spike-work Story SWS1 Postman testing workshop
+Action: All
+
+Process story PS1: SE.QA.1 (QA plan) 
+Action: bie2
+
+Process story PS2:
+and SE.QA.2 (doc standards)
+Action: job130
+
+PS3: SE.QA.3 (PM standards)
+Action: prs49
+
+PS4: SE.QA.4 (UI prototype standards)
+Action: nip33
+
+PS5: SE.QA.7 (sprint review standards)
+Action: ref17
+
+PS6: SE.QA.8 (QA standards)
+Action: frs30
+
+PS7: SE.QA.6 
+Action: wis40
+
+PS8: SE.QA.5 
+Action: aba115
+
+PS9: Watch UI prototyping video on Blackboard (all)
+Action: All
+
+5. Product Backlog refined.
+NONE
+
+Blogs and planning spreadsheet
+------------------------------
+NONE
+
+Other new business
+------------------
+6. Arrange Review meeting location and time
+Action: Developer team will decide
+
+AOB 
+===
+NONE	

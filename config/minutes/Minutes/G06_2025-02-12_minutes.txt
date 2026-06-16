@@ -1,0 +1,138 @@
+Project: Deck of Cards
+Meeting: Weekly Sprint review
+Persons present: All project members except Billy Edwards (illness)
+Place and date of meeting: 0.21 Cledwyn Building, Wednesday 12th February 2025
+Author: Niall Perry
+Version: 1.0
+Circulation list:
+- aba115: Abdullah Al-Samarrai
+- frs30: Francy Sasso (Deputy QA Manager)
+- job130: Joe Ball
+- nas97: Natalia Spence (Team Leader)
+- nip33: Niall Perry (QA Manager)
+- prs49: Prem Sharma
+- ref17: Reema Fraser (Deputy Team Leader)
+- wis40: William Shipp
+- mua19: Muhammad Aslam (Scrum Coach)
+
+Matters arising from previous meetings
+======================================
+1. DS.1.1: define_Numbers_Prototype 
+Action: bie2
+Status: Roll Over
+
+2. DS.1.2: define_Jokers_Prototype
+Action: aba115
+Status: Roll Over
+
+3. DS.1.3: define_images_Prototype
+Action: nip33
+Status: Roll Over
+
+4. DS.1.4: define_Table_Prototype
+Action: job130
+Status: Roll Over
+
+5. DS.1.5: random_Shuffle_Prototype
+Action: ref17
+Status: Roll Over
+
+6. DS.1.6: control_Cards_Prototype
+Action: prs49
+Status: Roll Over
+
+7. DS.1.7: reposition_Cards_Prototype
+Action: wis40
+Status: Roll Over
+
+8. DS.1.8: shortcut_Input_ Prototype
+Action: nas97
+Status: Roll Over
+
+9. DS.1.9: flip_Cards_ Prototype
+Action: frs30
+Status: Roll Over
+
+10. Update layout of UI prototype slides
+Action: All
+Status: In progress
+
+11. Ask about rules for the user (Does User decided the rules?)
+Action: frs30
+Status: Done (Answer is to leave out)
+
+12. Ask about max decks
+Action: nip33
+Status: Done (Answer is 4 decks)
+
+13. Ask about difference between DS1.6 and DS1.8
+Action: nas97
+Status: Done
+
+Other matters
+------------
+14. A developer has told another about a lack of commitment to univeristy/ this module. QA managers are to speak with particular developer about issues
+Action: nip33, frs30
+Status: Rolled over
+
+Report from Sprint plan
+--------------------------
+15. Book a room for Friday to complete first iteration of the UI Prototype 
+Action: nip33
+Status: Done
+
+16. Meeting for more cohesive design of background and cards
+Action: nip33, job130
+
+17. Use Google Slides to combine individual Prototype
+Action: All
+
+18. Change the format of the Powerpoint titles on Github to be more descriptive and in the form PS1.01, etc..
+Action: frs30
+
+19. Create put Powerpoint in form .ppx & .pdf and put into Docs folder
+Action: All
+
+20. Process the results of the google form
+Action: nip33
+
+21. Correct formats of blogs
+Action: aba115, wis40
+
+22. Use the Review meeting specification to improve the documentation of minutes
+Action: nip33
+
+23. DS.1.10-flip_group_cards
+Action: frs30
+
+24. DS.1.11-reveal_cards
+Action: aba115
+
+25. DS.1.12-save_layout
+Action: prs49
+
+26. DS.1.13-deal_layout
+Action: bie2
+
+27. DS.1.14-rotate_card
+Action: nip33
+
+28. DS.1.15-record_game
+Action: bie2
+
+29. DS.1.16-autoplay_game
+Action: ref17
+
+30. DS.1.17-snap_to_grid
+Action: wis40
+
+31. DS.1.18-sound_effects
+Action: job130
+
+Other matters
+------------
+NONE
+
+AOB
+------
+NONE

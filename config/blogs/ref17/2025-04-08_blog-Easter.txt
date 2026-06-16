@@ -1,0 +1,26 @@
+Author: REF17
+Sprint: Easter Break (08/04/25)
+Assigned actions
+=================
+
+Action 1: Define number of decks – pseudocode redo
+I rewrote a member’s code into the correct pseudocode format.
+Hours: 1
+
+Action 2: Sequence diagram description for US11.2
+I wrote a description for US11 diagram – which is revealing a group/ singular card.
+Hours: 1
+
+Action 5: US2.2.1 Sequence diagram description 
+I annotated my diagram for US2 and explained how the entities communicated with each other.
+Hours: 1
+
+
+Other project work
+
+Total hours: 3
+
+
+
+
+

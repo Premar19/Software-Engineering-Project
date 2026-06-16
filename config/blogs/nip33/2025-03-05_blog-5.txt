@@ -1,0 +1,35 @@
+Author: nip33
+Sprint: 5(05/03/25)
+
+Assigned actions
+=================
+Wednesday -
+
+Action 1: Spike work stories on Junit testing
+
+in the process of producing a document on junit testing to better the Quality Assurance.
+Hours : 2
+---
+Friday - 
+
+Action 2: Seperate external meeting 
+
+Spoke and discussed with the group on how to resolve any issues with document
+
+Hours: 1
+----
+Tuesday -
+
+Action 3: Pseudo code
+
+Wrote pseudo code for US3 and US14.
+
+Hours: 2
+
+
+Other project work
+==================
+NONE
+
+--------------------------------------- 
+Total hours: 5

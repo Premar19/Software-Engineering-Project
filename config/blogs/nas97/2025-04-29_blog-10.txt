@@ -1,0 +1,28 @@
+Author: nas97
+Sprint: 1(29/04/2025)
+
+Assigned actions
+=================
+
+Action 1: US12/13/15/16
+
+Worked with Prem to rewrite replay and some of recording after discovering a design flaw
+
+Hours: 6
+
+Action 2: JavaDoc
+
+JavaDoc code I wrote and anything not javadoc'd by other developers
+
+Hours: 2
+
+Action 3: JUnit tests
+
+Helped Prem create unit tests for US4/13/16
+
+Hours: 1
+
+Other project work
+==================
+
+Total Hours: 9

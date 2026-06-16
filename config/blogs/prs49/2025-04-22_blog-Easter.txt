@@ -1,0 +1,25 @@
+Author: prs49
+Sprint: Easter Break
+
+Assigned actions
+=================
+
+Action 1: US13 Implementation
+
+Completed Minor parts of US13 that were not implemented and not working
+
+Hours: 2
+
+Action 2: US16 Implementation
+
+Partial implementation of Replay with multiple bugs existing
+
+Hours: 5
+
+
+
+Other project work
+==================
+
+
+Total hours: 7

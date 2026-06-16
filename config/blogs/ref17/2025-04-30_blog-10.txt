@@ -1,0 +1,34 @@
+Author: REF17
+Sprint: 10(30/04/25)
+Assigned actions
+=================
+
+Action 1: US3.2.1 Sequence diagram description 
+I annotated my diagram for US3 and explained how the entities communicated with each other.
+Hours: 1
+
+Action 2: US4.2.1 Sequence diagram description 
+I annotated my diagram for US4 and explained how the entities communicated with each other.
+Hours: 1
+
+Action 3: US13.2.1 Sequence diagram description 
+I annotated my diagram for US13 and explained how the entities communicated with each other.
+Hours: 1
+
+Action 4: US1.2.1 Sequence diagram description 
+I annotated my diagram for US1 and explained how the entities communicated with each other.
+Hours: 1
+
+Action 5: State diagram
+I created a state diagram for the project game play
+Hours: 2
+
+Other project work
+Action 6: Sprint Review meeting
+We held a sprint review meeting and worked on work that had not been fully completed or not to standard. We also updated the design document from the issues work uploads.
+Hours: 2
+
+Total hours: 8
+
+
+

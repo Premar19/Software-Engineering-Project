@@ -1,0 +1,84 @@
+Project: Deck of Cards Group 6 (CS22120)
+Meeting: Weekly Sprint planning
+Persons present: All project members except Natalia Spence (out of town)
+Place and date of meeting: 0.21 Cledwyn Building, Wednesday 5th February 2025
+Author: Niall Perry & Francy Sasso
+Version: 1.1
+Circulation list:
+- aba115: Abdullah Al-Samarrai
+- bie2: Billy Edwards
+- frs30: Francy Sasso (QA Deputy)
+- job130: Joe Ball
+- nip33: Niall Perry (QA Manager)
+- prs49: Prem Sharma
+- ref17: Reema Fraser
+- wis40: William Shipp
+- mua19 Muhammad Aslam (Team Coach)
+
+Matters arising from previous meetings
+======================================
+1. Qa.05 (present PowerPoint)
+Action: aba115
+Status: Done
+
+2. Reread Qa.05 
+Action: All
+Status: Done
+
+Other matters
+-------------
+NONE
+
+New Business
+============
+
+Report from Sprint Planning
+--------------------------
+1. DS.1.1: define_Numbers_Prototype 
+Action: bie2
+
+2. DS.1.2: define_Jokers_Prototype
+Action: aba115
+
+3. DS.1.3: define_images_Prototype
+Action: nip33
+
+4. DS.1.4: define_Table_Prototype
+Action: job130
+
+5. DS.1.5: random_Shuffle_Prototype
+Action: ref17
+
+6. DS.1.6: control_Cards_Prototype
+Action: prs49
+
+7. DS.1.7: reposition_Cards_Prototype
+Action: wis40
+
+8. DS.1.8: shortcut_Input_ Prototype
+Action: nas97
+
+9. DS.1.9: flip_Cards_ Prototype
+Action: frs30
+
+Other new buisness
+------------
+10. Choose a project leader by next sprint
+Action: All
+
+11. Change project description
+Action: All
+
+12. Create Issues for Sprint backlog
+Action: frs30
+Status: Done
+
+13. Edit blogs
+Action: All
+
+AOB
+============
+NONE
+
+
+

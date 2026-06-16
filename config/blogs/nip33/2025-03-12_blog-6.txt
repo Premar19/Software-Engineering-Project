@@ -1,0 +1,35 @@
+Author: nip33
+Sprint: 6(12/03/25)
+
+Assigned actions
+=================
+Friday - 
+
+Action 2: Seperate external meeting 
+
+Coded US1 together
+
+Hours: 1
+----
+Monday -
+
+Action 1: Spike work stories on Junit testing
+
+in the process of producing a document on junit testing to better the Quality Assurance.
+Hours : 3
+---
+Tuesday -
+
+Action 3: updated Design Document
+
+Converted to LaTex and used Feedback to improve Design document.
+
+Hours: 4
+
+
+Other project work
+==================
+NONE
+
+--------------------------------------- 
+Total hours: 8

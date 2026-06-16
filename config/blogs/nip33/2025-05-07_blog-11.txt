@@ -1,0 +1,26 @@
+Author: nip33
+Sprint: 11 (07/05/25)
+
+Assigned actions
+=================
+1. meetings
+Atteneded a meeting for final send off
+Hours: 2
+
+2. Maintence manual
+Hours: 4
+
+3. Went through Gitlab minutes and rewrote
+Hours: 2
+
+4. Edited Design document and added diagrams
+Write up of what was discussed
+Hours: 2
+
+
+Other project work
+==================
+NONE
+--------------------------------------- 
+
+Total Hours: 10

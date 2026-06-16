@@ -1,0 +1,43 @@
+Author: Wis40
+Sprint: 8(25/03/25)
+Assigned actions
+=================
+Action 1 (23-03-2025): US-2 Unit Tests 
+Wrote J-Unit tests for US-2
+
+Hours: 1
+
+Action 2 (23-03-2025): US-5 Unit Tests 
+Wrote J-Unit tests for US-7
+
+Hours: 1
+
+Action 3 (23-03-2025): US-7 Unit Tests 
+Wrote J-Unit tests for US-7
+
+Hours: 1
+
+Action 3 (23-03-2025): Bu Fixes/ Continued implementaion of US-5 and US-2 
+Wrote J-Unit tests for US-7
+
+Hours: 1
+
+Action 3 (23-03-2025): Animations for US-7 and US-5 
+Added animations that play when US-5 and US-7 are used.
+
+Hours: 2
+
+Action 4 (24-03-2025): Sprint Reveiw meeting 
+Disccusion of work completed towards ATP - 3 and development of the program
+
+Hours: 1
+
+Other project work
+
+==================
+
+NONE
+
+Hours: 0
+
+Total hours: 7
