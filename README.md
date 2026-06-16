@@ -91,26 +91,6 @@ Not Started Implementing:
 - Returning to menu after finishing a replay then starting another replay ends the replay instantly
 - Drawing the second last card of a deck can result in bugs with a card following the mouse for no reason and an invisible deck that you can stack cards onto to vanish them
 
-## Team
-
-QA Managers:
-- nip33: Niall Perry
-- frs30: Francy Sasso - Deputy
-
-Team Leaders:
-- nas97: Natalia Spence
-- ref17: Reema Fraser - Deputy
-
-Developers:
-- aba115: Abdullah Al-Samarrai
-- bie2: Billy Edwards
-- job130: Joe Ball
-- prs49: Prem Sharma
-- wis40: William Shipp
-
-Team coach:
-- mua19: Muhammad Aslam
-
 ## How To Build And Run
 
 > **Aberystwyth University M Drive**
@@ -130,7 +110,7 @@ Team coach:
 
 ### Build With IntelliJ
 
-Clone the repository with `git clone git@gitlab.aber.ac.uk:nas97/gp6.git`, or download the source code from [here](https://gitlab.aber.ac.uk/nas97/gp6/-/archive/main/gp6-main.zip) and extract it to a folder manually.
+Clone the repository with `git clone https://github.com/Premar19/Software-Engineering-Project.git`.
 
 Open the project in IntelliJ and head to the run configurations in the top right (to the left of the run button). Click the dropdown, click `Edit Configurations`, click the `+` and select `Maven`. In the run box that says `Command Line`, enter `clean javafx:run -f pom.xml`. If that run configuration does not work as-is, add another using the same steps that just says `install` in the box, run that, then run the previous run configuration again.
 
